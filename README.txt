@@ -1,5 +1,5 @@
 ####### README file for Anna Lieb's CS 315 final project #######
-Files available at (restricted access): 
+All files listed here, in addition to full Reddit data sets, are available at (restricted access): 
 https://cs.wellesley.edu/~al117/cs315-assignments/finalproject/
 
 ######### PM5 - Created on May 16, 2021  ##########
@@ -14,7 +14,7 @@ The jupyter notebook files with code for data analysis were created in this orde
 
 1. PM3 - Revised Data Collection.ipynb (or .html)
 >> Description: After downloading Pushshift dumps, this code reads through the decompressed .zst file of raw Reddit data, extracts relevant posts, and writes them to an output .csv file. 
->> Generates: csv files located in the Extracted folder; titles indicate the month posted, and start with RC for comments or RS for submissions.
+>> Generates: csv files located in the Extracted folder; titles indicate the month posted, and start with RC for comments or RS for submissions. The Extracted folder is not available here on GitHub, but it can be found at https://cs.wellesley.edu/~al117/cs315-assignments/finalproject/ for those with Wellesley permissions.
 ** Note that the input .zst files are not uploaded to the cs server, but can be found at https://files.pushshift.io/reddit/ 
 
 2. PM3 - Data Cleaning & Exploration.ipynb (or .html)
