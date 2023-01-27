@@ -1,0 +1,1245 @@
+subreddit,text,relevant?
+LegalAdviceUK,"Sure - as much as the Working Party has said that, and I certainly agree with the proposition that just because someone has done anything criminal doesn't mean that their personal data is ""fair game"" as it were, but I wonder whether a parallel argument to that which arises in Article 8 ECHR jurisprudence regarding criminal actions would apply, e.g. in *Sutherland v HMA* a nonce had no expectation of privacy in their messages to a nonce-hunter, not because of issues: it wasn't even something that the right even attached to, due to the nature of the messages and what's important in a democratic society (certainly not noncery).
+
+By analogy - are similar arguments possible when talking about bases of processing, that little weight is put on the subject's interests due to the nature of the information in question? In other words, is GDPR meant to be used, or should it be used, as a shield to conceal wrongdoing - where does that go to, in the balancing exercise?
+
+I'd like to see a case on that.",1
+wallstreetbets,"This. Beyond 'data-mining and analysis = not great for privacy', the Thiel tool is also giving me pause. Even if I disregard my own opinion as biased, there's still a lot of other negative sentiment towards him. 
+
+That said, Elon Musk is a different kind of tool and he's definitely getting close to possibly working out for Tesla.",1
+unpopularopinion,"Theoretically, they could require some form of ID to prove your age - although that raises up privacy concerns with processing data, it might be better to have a government agency get that data and then tell the service whether or not they are that age",1
+technology,"Because apparently upper management and boards of directors still live in the 80s. Most if not all non-tech companies see IT as an *expense* regardless of whether IT simply provides infrastructure and support or if they contribute to the company’s profits. There is a connotation that comes along with being labeled expenses, and every time budget is discussed there is pressure to spend less, hire less, and scale linearly while providing more services and better uptime and support. 
+
+I mean IT employees are far from having the worst job conditions, but that doesn’t mean there isn’t room for improvement. A lot of IT people work unpaid overtime, deal with no budgets to purchase services or upgrade necessary equipment, and become understaffed as a company expands. There’s a common anecdote in the field: when everything is working, management asks IT “what are we even paying you for if everything works fine?”, but when things are broken, management asks IT “what are we paying you for if it’s broken?”
+
+This may be different at tech companies where the IT services are the product and provide the revenue, but even in that situation it’s still harder to quantify the benefits some investment or hire would bring to the product in terms of bottom line. If anything, while tech company employees do tend to be higher paid than IT employees elsewhere, they end up with more responsibilities and pressure. This is why college grads like to jump into a tech company or startup for a couple of years and grind it out before leaving for a more traditional IT position using their tech company credentials to negotiate a salary. 
+
+I’m well aware that service desk employees and database admins are only related in that they both work with technology, but to further support my point, most companies put them in the same umbrella of IT and treat their budgets and hiring as a necessary evil. As such, it’s in the interest of IT employees to collectively unionize even if their needs and situations aren’t as close as they might seem.
+
+I’ll admit I struggle to understand why tech employees can simultaneously be as highly paid as they are but still be considered out-of-sight; out-of-mind IT drones. But high salaries aren’t the end all of employee needs, so I’d happily support and join a union for IT/tech employees if they ever become viable. 
+
+I think it’s also a matter of companies figuring out how tech works and attempting to streamline tech products into a commoditized or mass produced sector where employees have to meet exceedingly more detailed goals and deliver regular results rather than creating a product as a whole. From what I’ve seen and heard of the main couple of big tech companies, they’re pushing this idea harder and trying to figure out a way to create products faster at the expense of its workers. I suppose it’s not a new story in the corporate world, but it is clearly reaching a breaking point if union activity is growing at these companies. Even non-tech industry IT jobs are being automated, sourced out to managed services, and commoditized into creating deliverables. 
+
+I’ll give you a very personal anecdote. This year, after over a decade of 10%+ growth, the large non-tech company I work at has followed in the footsteps of industry leaders, laid off almost all of IT, and left only managers and business analysts to handle managed services contractors that are expected to deliver results for a regular expense. Maybe it’s the contractors that will be taking over our jobs that need unions more than me an my coworkers, but I don’t see this as an industry that values it’s IT employees. They want us as expendable and replaceable as possible.
+
+Now maybe I’m bitter, but I don’t see this as an industry that values tech workers. No, I see this as a company viewing IT as a necessary expense and deciding to outsource it for a simple, consistent recurring payment that they can expense. With the speed of how this has happened, it’s nearly impossible for them to have planned for all the project/service transitioning and knowledge transfer that would need to happen in order to continue operating smoothly. There’s numerous proprietary solutions, customized SaaS solutions, and critical software and infrastructure that will need to flip over to a new work force in the span of months, and even with my experience I can tell there’s going to be some problems. Service interruptions, longer support times, lengthened project times, unresolved bugs, and random failure of all the finicky or temporary solutions that have been implemented by senior employees that are keeping critical stuff working. I’m curious to hear from the few people remaining how the next couple of years goes. 
+
+Again, maybe I’m naive, bitter, inexperienced, and whatever else that may preclude me from making these observations, but just rationally I can’t find a way to see this process as anything other than cost savings and disregard for the experience and skills of tech employees. There’s already been a hiring freeze for years that has led everyone to being overworked and led to somewhat worse support as the company grew and expanded, requiring new solutions and more work. Maybe it’s for the best honestly, because I don’t like the idea of working at a company that may do this. The only problem is that I don’t know of an industry that respects tech workers instead of treating us as interchangeable expenses. Most people laid off have over 5 years of tenure, and many over 10-15, so the company will be losing the decade+ of experience and intimate knowledge of its IT operations just so the IT department doesn’t cost investors 1/10th of their profits. 
+
+Good on these NYT employees for unionizing, it sounds like they very much need the representation. IT people are seen as tech support janitors in most industries regardless of their contributions and expertise, and it’s time for this highly skilled field to assert itself.",1
+technology,"McDonald's Corp (MCD.N), the world's largest burger chain, said on Friday that a data breach in South Korea and Taiwan has exposed some customer and employee information, making it the latest global company to be targeted by cybercriminals.
+
+The attackers accessed e-mails, phone numbers and delivery addresses, but the breach did not include customer payment information, the company said.
+The details of the breach in the two regions were the result of an investigation by external consultants following an unauthorized activity on the company's network.
+
+""While we were able to close off access quickly after identification, our investigation has determined that a small number of files were accessed, some of which contained personal data,"" McDonald's said in s statement.
+
+The burger chain said it will take steps to notify regulators and customers listed in the files.
+
+Recent breaches by cybercriminals on hospitals and global companies including meat processor JBS (JBSS3.SA) and Colonial Pipeline oil have disrupted operations for hours, leading to worries of supply shortages.
+
+A few companies have had to pay a ransom to gain control of their operations and restart production. McDonald's said its day-to-day operations were not affected and that a ransom was not involved.
+The company said it would use the findings from the investigation to identify ways to improve its security measures.",1
+Entrepreneur,"Like everyone else said. Coding. I’ve always been tech minded, and without sounding too cocky, extremely intelligent and never had a real path. I’m from Ireland and the education system here just isn’t for me. I’m the same age as you right now. 
+
+Anyways, around January of last year I started to learn coding. One thing led to another, I made some projects (mostly following YouTube videos *cough* sonny sangha on YouTube is god for starter web developers) for things like apps and websites. 
+
+MAKE A GITHUB. NOW. Start posting your projects to GitHub the moment you begin. Learn GitHub. It’s CRUCIAL for freelancing and even securing jobs with massive companies (I’ll get onto that in a minute). 
+
+MAKE A LINKEDIN. NOW. It’s also crucial for any serious job or freelancer. 
+
+ACTUALLY CODE. You can read all the books in the world and watch all the videos but without actually typing, you don’t gain any muscle memory. It’s like riding a bike. Imagine watching videos how to ride a bike or drive a car for 100 hours then going and actually doing it for your job without any real experience. Chances are you’ll be shit and get fired. You NEED to code. Make apps, websites. They don’t need to be great. You just need to do it, that’s the main thing. And upload it to GitHub. Again. GitHub. Crucial. 
+
+Learn the fundamentals. Please don’t watch 1 hour of Python and then try to make Amazon backend code. You’ll lose motivation quick with how overwhelming that is. There’s thousands of freelance opportunities for pretty easy to learn skills so don’t jump into the deep end. Start small. 
+
+Now, I made a GitHub and did hundreds of projects within 6 months (I got fascinated and pumped out 2-3 decent looking websites PER DAY). I went from front end to back end after 6 months and did that for 6 more months. I started freelancing about 2 months into my back end journey (which was 8 months total that I had been developing). 12 months in total and I landed a job at the worlds largest CRM cloud software company. 
+
+So people who say you need a degree are honestly just talking bs. I attended university for 4 months from September to January. I can guarantee you if you’re motivated you’ll learn in one week what university teaches you in one month. And practical knowledge too. 
+
+I’m not trying to rant here but it’s important you really focus on actually coding, making a GitHub and posting to it, making a LinkedIn, learning the fundamentals. 
+
+Pick what you want to do. Do you want to do front end or back end development? Do you want to do machine learning type development? If you want to develop websites and want to learn the most demanding sought after skills right now you need to learn React, JavaScript, CSS. Those are the absolute most important and csn get you good jobs within a few months. 
+
+Python is of course the most known programming language and that’s what most universities teach now. It’s beginner friendly too. Python isn’t used to make websites pretty. It’s used to work with data, automate things, etc. In my opinion it’s more technical than things like React and front end development but it pays more and the opportunities are end less if you can learn it really good.
+
+For me personally, and from what I’ve heard speaking to hiring managers at this job, when hiring, they’re looking to see stuff you’ve done. Your code. They care slightly about the paperwork that says you have a degree but they care a whole lot more about how capable you are. Because trust me, a whole lot of incapable people get degrees. If you can show an employer some of your own projects, you’re golden.",0
+linux,"What stops you from downloading data to your notebook, disconnecting vpn and uploading it somewhere else? You dont need a container for it.
+
+IDS might only detect that traffic is routed by inspecting ttl if you dont bother to hide that, but I seriously doubt someone would bother do that and allow personal devices to access network at the same time.
+
+In 99% of the cases when you have any kind of remote access, getting data out is relatively easy task.",1
+Superstonk,I'd also recommend that non-US apes contact their local regulators to discuss data privacy breaches.... no reason the DTCC shouldn't have to follow GDPR guidelines.,1
+technology,"Hey all, I'm the one of the authors of the conference paper discussed in the article and was quoted in this. Really excited to see it's interesting!
+
+Wanted to share a few additional comments:
+
+One of the major goals of the paper is to describe a framework of three ""data levers"" (ways a group of people can hurt or harm a data-dependent technology). Data poisoning (well known to ML people for a long time) is one of the three ""levers"". The other two are ""data strikes"" (withhold future data and/or delete past data via deletion request) and ""conscious data contribution"" (ala conscious consumerism — give data to a firm you support and want to compete with incumbents). As some commenters here have pointed out, it is hugely problematic to treat this as the ONLY avenue for change; this is just blaming the consumer. We 100% agree these efforts need to be in parallel with legislative efforts and other forms of collective action (e.g. worker organizing).
+
+A major point in the paper is that there are big differences in terms barrier to entry, legal considerations, ethical considerations, and ability for a data lever to be impactful. Basically, for any given company + technology, there's probably a particular data lever that's a ""best fit"". It might hard to organize a large enough ""data strike"" that will meaningful hurt a huge company's search engine, but conscious data contribution could help improve a competitor (esp. if that competitor focuses on search verticals). On the other hand, data strikes could be really great vs. facial recognition, because there's precedent of forcing companies to delete actual *model weights* ([https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos](https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos)).
+
+Another point is that there's some nice connections between levers. On the topic of data poisoning defenses: if you've been feeding poisoned data, and get caught (quite likely for naive attacks, as noted in these comments!), the company deletes your poison and you've just been ""reduced to a data strike"".
+
+A final point the paper discusses implications for folks who work in machine learning (ML), tech design, and policy. There's great opportunities to build to tools to support data leverage, and for ML researchers to ""bake in"" data leverage (e.g. compute a performance v. dataset size learning curve to characterize how ""vulnerable"" a system is to data strikes). Also, there's huge potential for win-wins with privacy regulation: data deletion and data portability both enhance the public's leverage.
+
+Really appreciate seeing all the comments here!",1
+apexlegends,"No he isnt. The developers dont hate Data miners, They hate people who dont spoiler correctly.
+
+If you WANT to see the information before it actually arrives, data miners are Amazing. Me personally, love it. Knowing whats coming is amazing. I want patch notes as early as possible.. And respawn has a habit of releasing them.. about an hour After the patch goes live. which is dumb.
+
+If All data mined content was spoilered correctly, there'd be ZERO downside. People who Want to see it, would see it, and people who dont, wouldnt.",1
+UFOs,"Oh my god, I looked at your comments on his post, and others…now I see, you really just don't get what observational data is do you? He's not full of shit, he's pointing out an observation he made. 
+
+[https://www.sciencelearn.org.nz/resources/1400-observation-learning-to-see](https://www.sciencelearn.org.nz/resources/1400-observation-learning-to-see)
+
+here's a fun activity that might help you understand. Observations are not the same as explanatory claims. they are simply something of interest noted by an observer, and are the foundation for all scientific inquiry. Observations simply note the existence of something, they are not claims that seek to explain or predict. Hypotheses are then proposed, in competing fashion to attempt to explain the observation. But hypotheses are still ***Not Claims*** in the same sense that post-experimental claims are, they're merely ideas of what might be able to explain it, and occur very early in the scientific process. (here's a good way of looking at it, Hypotheses are potential explanations, while a claim is made when you assert that your hypothesis has been shown to be correct!) The OP didn't make any such grand explanatory claims. he explicitly qualified that he was not claiming he ""found"" the tic tac, he was simply presenting an observation, and perhaps suggesting a hypothesis, and then people with fundamental misunderstandings about scientific inquires like you, piled on him as if he was making some grand claim about finding proof of  UAP craft on satellite imagery. that's probably why he deleted his account. Not because alternate hypotheses were being proposed, this is a normal part of the process, personal attacks aren't. Also if you care to put in the effort to look (which let's be honest, if history is any lesson you won't) other people in the comments also took up the gauntlet and found some other pretty interesting things, that appeared more promising! while others calmly pointed out alternative hypotheses (all of which is what is supposed to happen in the face of a new observation), this is too much for you though. If you ***think*** you have found an alternate hypothesis, then the OP is a hack and a grifter! (all while doing 0 testing of your own hypothesis to justify such claims, and yes, what you are doing is making an explanatory \*\*\*Claim,\*\*\*by attempting to attribute motive. see how that makes you a hypocrite?)
+
+I don't know dude, you just seem to not get what different parts of the scientific process actually are. If we followed your standard, no observations would ever be shared, as there are likely alternative hypotheses that could be presented for ***everything.*** We want to encourage open discussion, and the sharing of observations, while still maintaining a healthy skepticism about definitive claims. Insulting and shouting down people who presented an observation you think can be easily explained, doesn't help anyone, or anything, and likely sets us back. Have a good evening dude, I hope you figure it out.",0
+NoStupidQuestions,"Why do you think that you would go your whole life without experiencing that?  You are literally planning  to travel and see escorts a year or more in advance.  Imagine what could be accomplished if you spent that time and investment making yourself remotely datable and fuckable.  You have ""no choice"" because you make the decision to spend your money, time, and effort on prostitution.
+
+Furthermore, prostitutes do not offer intimacy.  They offer the simulation of intimacy as part of a financial transaction.  If intimacy is what you are after, then you are doing the wrong things to achieve that.  You will pay prostitutes your whole life and never know actual intimacy - that is the choice you're making.
+
+&gt;Escorts are literally my only option when it comes to getting laid.
+
+You make personal choices that have made it your only option.  You have the freedom (and clearly even the financial means) to make different personal choices, so that it is no longer your only option.
+
+Unless someone has a gun to your head, you do have a choice.  Why do you think you don't? Explain?",0
+apple,"They will use to improve their AI. Siri is a lot worse than the competition because of the lack of data apple pull in on their users. 
+
+This allows apple to limit the data the competition is collecting while keeping it for themselves. 
+
+It is not really about ypur privacy. It's about money.",1
+privacy,"I get that you want to fight back and believe me, all the stuff I'm telling you makes me madder than anyone on this sub. There used to be tons you could do to protect yourself, but we now live in a time where all the privacy invading stuff happens where it's out of control, in the cloud and on data servers.
+
+The only real method we have to protect our data is to never enter it into a company's system in the first place, but that's not very practical at all.
+
+What really makes me mad is I warned everyone this was coming for at least 10 years now. No one listened or cared. Now we're reading what we've sown and for the most part people still don't listen or care.",1
+Windows10,Boot from the Flash Drive and go to install Windows 10 but it will ask before it starts if you want to a) wipe everything or b) reatain your personal data. If you are not confident then you can always back out!,0
+AIDungeon,"Hiding the data breach *is something I am pissed over*.
+
+By default they get to see everything. If there is no TOS, and no privacy policy, they get to see it all.
+
+IF you want them to not see a thing, THAT has to be covered by the TOS, or Privacy Policy.
+
+Your DEFAULT position is they can see everything. Where have they said they won't?
+
+TOS says they can, and if it said NOTHING, then they still could.
+
+Data Breach they SHOULD be in trouble for (not the breach itself, as such, but that they didn't inform the users)",1
+takemysurvey,"1.	As this survey is performed through Qualtrics, the Qualtrics Research Suite will have access to participant data while the data is being collected, but the Qualtrics data storage is protected with encrypted software. None of the information will be shared to a third party, which ensures that no privacy is compromised. There is, however, potential for the research results to be published in professional journals, reported at conferences, or made available to other researchers in this field. In this case, only a summary of the survey responses obtained from the participants will be published, ensuring there is no personally identifiable information. Email addresses provided for the monetary award will be stored in a separate survey unlinkedto the current study responses and will not be used for any other purpose. The information will be destroyed as soon as the winner is contacted and prize collected. Storage of data Data collected will be stored in accordance to Monash University regulations. Whilst the questionnaire is still active, all data will be stored on Qualtrics, which is a secure online survey platform endorsed by Monash University. Once the questionnaire is no longer active after the recruitment period, the data will be collected. After data collection is complete, the data will be stored in LabArchives, a password-protected cloud-based line of electronic lab notebooks used to store information securely. The data will be stored for the duration of a minimum of 5 years., after which it will be destroyed. Contact details acquired for the prize draws will be destroyed right after the winners are announced.
+
+2.	Brigitte Jensen (student) and Ryan Anderson (chief investigator). Monash University; Project ID 28219.
+
+3.	10 minutes approximately.
+
+4.	A $50 Amazon voucher can be won and there is a link to go into the prize draw at the end of the survey.
+
+5.	Australian residents, males and females in a committed relationship.
+
+6.	Participation to produce solid data on my research project.",1
+gadgets,"The study, published in Nature Communications, was carried out in collaboration with teams at the University of Exeter, India, Switzerland, Singapore, and the US.
+
+  
+HDDs first appeared in the 1950s, but their use as storage devices in personal computers only took off from the mid-1980s. They have become ever smaller in size, and denser in terms of the number of stored bytes. While solid state drives are popular for mobile devices, HDDs continue to be used to store files in desktop computers, largely due to their favourable cost to produce and purchase.
+
+  
+HDDs contain two major components: platters and a head. Data are written on the platters using a magnetic head, which moves rapidly above them as they spin. The space between head and platter is continually decreasing to enable higher densities.
+
+  
+Currently, carbon-based overcoats (COCs) – layers used to protect platters from mechanical damages and corrosion – occupy a significant part of this spacing. The data density of HDDs has quadrupled since 1990, and the COC thickness has reduced from 12.5nm to around 3nm, which corresponds to one terabyte per square inch.  Now, graphene has enabled researchers to multiply this by ten.
+
+  
+The Cambridge researchers have replaced commercial COCs with one to four layers of graphene, and tested friction, wear, corrosion, thermal stability, and lubricant compatibility. Beyond its unbeatable thinness, graphene fulfills all the ideal properties of an HDD overcoat in terms of corrosion protection, low friction, wear resistance, hardness, lubricant compatibility, and surface smoothness.
+
+  
+Graphene enables two-fold reduction in friction and provides better corrosion and wear than state-of-the-art solutions. In fact, one single graphene layer reduces corrosion by 2.5 times.
+
+  
+Cambridge scientists transferred graphene onto hard disks made of iron-platinum as the magnetic recording layer, and tested Heat-Assisted Magnetic Recording (HAMR) – a new technology that enables an increase in storage density by heating the recording layer to high temperatures. Current COCs do not perform at these high temperatures, but graphene does. Thus, graphene, coupled with HAMR, can outperform current HDDs, providing an unprecedented data density, higher than 10 terabytes per square inch.
+
+  
+“Demonstrating that graphene can serve as protective coating for conventional hard disk drives and that it is able to withstand HAMR conditions is a very important result. This will further push the development of novel high areal density hard disk drives,” said Dr Anna Ott from the Cambridge Graphene Centre, one of the co-authors of this study.
+
+  
+A jump in HDDs’ data density by a factor of ten and a significant reduction in wear rate are critical to achieving more sustainable and durable magnetic data recording. Graphene based technological developments are progressing along the right track towards a more sustainable world.
+
+  
+Professor Andrea C. Ferrari, Director of the Cambridge Graphene Centre, added: “This work showcases the excellent mechanical, corrosion and wear resistance properties of graphene for ultra-high storage density magnetic media. Considering that in 2020, around 1 billion terabytes of fresh HDD storage was produced, these results indicate a route for mass application of graphene in cutting-edge technologies.”",0
+centrist,"&gt; And yet people are forced to take jobs with Amazon, Starbucks, Hilton, Doordash and the like at below fair rate
+
+What the fuck is a ""fair rate""? What does that even mean? It'd be an accounting nightmare to try and understand how much profit each amazon employee generates. Hell, probably impossible. It'd be hard even in a hotdog stand, at Amazon? Uh.
+
+But lets say you offer people $100k for Amazon warehouse work, but somehow shows up telling you his kids need food, and he'll do it for $90k? Then someone shows up to do it for $40k. They have far fewer skills than the person you offered $100k, but you're pretty sure they could do it. For SURE 2 of them could do it.
+
+What is the morally correct thing to do?     
+
+a) Pay the first guy $100k and fuck those poor people?          
+b) Pick one of the two $40k people and pay them $100k, despite the $100k person having a degree and more experience?     
+c) Offer both the new guys $50k. (But now two more show up offering to do those jobs for $40k)     
+
+Supply and demand is pretty much the only ""fair"" way to set wages. Now, this works best when there's both ample supply and ample demand, which is true with large concentrations of population.
+
+Admittedly it's all fucked in a company-owned city in Wyoming or something, where the company has literally all the power, and that sort of thing you need to have regulations for.
+
+&gt; But then they find that Eli and Novo own key patents on drugs and tech that could result in a cure for diabetes, but nobody is allowed to use them.
+
+The situation is similar to electric vehicles. The fact that it was hard didn't stop Tesla. It wasn't patents stopping anything, just that the problem was hard and the motivation wasn't really there.
+
+And of course most ""old"" money had relations with the big 3 in Detroit, whereas Tesla got funded by Silicon Valley people who didn't give a fuck about the big 3.
+
+&gt; The FDA will not approve the tech.
+
+Now these things are complex, where the incumbents are leveraging access to the political machinery. This is obviously criminal and should be deal with harshly. 
+
+&gt; Investors? You have a choice - Novo, with a dividend of $1.33/share or a startup company that finds a one and done treatment from an herb that can't be patented. Which do you choose?
+
+Me, personally? Depends on how easy that latter is. I'm guessing it'll still have to go through the trials and have some purity guarantees, so they'll make, say, $10,000 per cured patient.
+
+Absolute dogshit compared to the insulin cashflow to perpetuity, but damn, if the clinical data was good and I could buy into the startup when it was valued at, say, $50m? God damn right I'd invest in the startup. And while I don't swing millions, I *would* invest $100k+.
+
+&gt; Just hold people accountable for damages they cause and make them liable for the cleanup.
+
+That would be a carbon tax of some sort. I heartily agree, it's a very good idea.
+
+&gt; Don't let them do that to other planets.
+
+I'm not really sure there's that much to preserve on Mars. I mean, what would be preserving it for? Even more extreme in case of asteroids, though there needs to be regulation about towing them near earth obviously.
+
+I think there's huge potential there and it's appalling how slow governments are at creating a joint framework for how all of this works.
+
+The lack of collaboration between national governments is massively hindering our development.
+
+Businesses and investors LIKE good regulation. Why? Because they often know regulation is mandatory, at which point all their investment ideas have to deal with all the possible options for what regulation might be coming. This sucks.
+
+Predictability is great for business. So if we had clear and comprehensive rules for asteroid mining (how to bring them close to earth, or if we collect them in specific Lunar orbits... or maybe only at Lagrange 5, which can only be approached from direction X?) we'd be all over that already. Now we have no idea how that'll work, which means that nobody dares invest in plans because who the hell knows whether that tech will even be useful when the regulations show up.
+
+I mean Musk has enough credibility that beyond his own $150bn he has access to far more from likeminded individuals, but it sure would be great if the whole thing was accessible to everyone.",1
+iphone,"Apple uses the data it collects to pummel competitors inside its own App Store.
+
+Overtime this will lead to and already has led to a diagonal monopoly.
+
+Their complete ownership of the platform and vendor lock-in via non-cross-platform apps allow them to narrow down consumer choice in the long run.
+
+How does this fit in with the telemetry?: data-collection via everything from Apple Pay to the App Store's apps allows them to know exactly which industry to target for buyouts that will reduce consumer bargaining power and raise their profits. Someone has to limit this.
+
+Otherwise, we'll be stuck with CarKey features being available on only 1 brand of phone. That kind of lock-in is vile and not the type of personal computing I want around.
+
+I monitor my network traffic out of curiosity and I was able to get my Android phone to basically shut up by turning off telemetry and other things in all settings and apps. Not so for my iPad with only 3 apps on it. The floor is higher with Apple. 
+
+Yes, the data *probably* stays in their network, but, at this point -- what difference does it make if their network just gets larger and larger and more exclusive in a way at the same time.",1
+leagueoflegends,"I think you’re missing the forest here, the point is being that no one player is above the team, the staff has to set standards. If you want to go on about semantics towards AB’s psyche in order to do the mental gymnastics to counter that one datapoint for ahead. But that’s just you strawmanning, you cannot deny the point that there’s ample precedence in real sports teams being forced to sacrifice top echelon players because of their bad behavior. 
+
+I don’t think you are looking at the situation for all of its parts. You are essentially giving yourself the credibility of perfect deduction, when you have scant evidence for your points. 
+
+Do you think his psyche is that easy to map out concretely? Simplifying his other tweet to just “it’s all me” just to make it seem less relevant is a bad faith tactic as well. Like do you really think he would make up and tweet out personal and motivational issues against his will? It wouldn’t ruin his value but why would you even incur that risk unless you believed some truth in it? Or I suppose you believe there was some kind of pressure where you now know that Alphari’s behavior is 100% not worth benching him for? 
+
+None of that is common sense, just like the assumption of complete control; that one in particular is such an irrational overreach. Alphari can definitely afford to be financially independent at this time and would attract other offers very quickly. That is the evidence (note the use of common sense) that makes me think it wasn’t a forced damage control statement. Steve has a lot of power but thinking he has the ability to make Alphari tweet something totally opposite to what Alphari actually thinks, is pretty tin foil hat.
+
+The main truth is that if a star’s behavior is hampering/demoralizing the team enough to overweight the star’s amazing ability, he is going to get benched. Was that threshold of negative effect rationally met? WE HAVE NO IDEA. YOU DON’T KNOW ANYTHING BEHIND THE SCENES. 
+
+It’s ok for you to be mad that one of NA’s great import talents isn’t working out rn, especially after such a brilliant start in spring. But peddling random fume and bullshit is not doing anybody favora. And you doing these mental gymnastics to tie this to the overall problematic pathology in the LCS is absolutely ridiculous.",0
+Games,"&gt;but more importantly they don't restrict legitimate uses for it in the policy and reserve the right to anything you post on discord.
+
+This is 100% standard privacy policy stuff. The reason they ""reserve the right to anything you post"" is so they can use it freely to *actually run the service*. Think about it this way: If a user uploads an image to send to a channel, Discord needs to be able to freely show that image to anyone else in the channel. The standard legal language for this is ""this content you uploaded is yours and you own it, but you give us a non-exclusive license to allow us to show this in various places on our service"".
+
+&gt;They are not in the business of selling your data matters until it sells to facebook
+
+You may be surprised to learn that Facebook doesn't ""sell your data"" either! Yes, I know you may have gotten the impression that they do, but this is an extremely common misconception. Facebook's advertising system is a black box to advertisers. They don't ever see raw data from individual users. Very briefly, it works like this:
+
+Say an advertiser like Best Buy wants to show ads to Facebook users. They say to Facebook, ""Please show this ad to Male users between the ages of 18 and 34 who live in New York City and are interested in video games""; Facebook says ""Sure, we have plenty of users like that"" and then serves the ad to those people. *That* is how Facebook uses your personal data. The idea is that you are more likely to click on an ad if it's relevant to you, and that is valuable to both Facebook and to advertisers.
+
+https://apnews.com/article/6f5156879a3a48218b509c97fcc28e39
+
+https://www.vox.com/2018/4/11/17177842/facebook-advertising-ads-explained-mark-zuckerberg",1
+nottheonion,"Who gives a fuck? People like me , paid to protect your data privacy. 
+
+Your points are too ridiculous to address.",1
+privacy,"The best way to stop Windows 10 spying on you is to uncheck what you do not want in Window 10's Settings.
+
+* [configure-windows-diagnostic-data-in-your-organization](https://docs.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
+* [No need to fear Windows 10](https://imgur.com/gallery/qTRfH)
+* [You want to talk about Windows 10? Fine. Gloves off.](https://imgur.com/account/favorites/pYcRB)",1
+singapore,"&gt; # TraceTogether-only SafeEntry required from Jun 1 at all higher-risk venues
+
+&gt; SINGAPORE: From Jun 1, TraceTogether-only SafeEntry will be implemented at all higher-risk venues and other modes of SafeEntry will be discontinued.
+
+&gt; 
+
+&gt; The venues where TraceTogether-only SafeEntry will be mandatory are those with a higher throughput of visitors – such as malls, workplaces, places of worship and schools – or where people are likely to be in close proximity for prolonged periods – such as restaurants and gyms.
+
+&gt; 
+
+&gt; Advertisement
+
+&gt; Advertisement
+
+&gt; Only the TraceTogether app or token will be accepted at these locations, the Ministry of Health (MOH) and Smart Nation and Digital Government Group (SNDGG) said on Thursday (Apr 22).
+
+&gt; 
+
+&gt; Other modes of SafeEntry, such as launching your phone’s camera to scan a venue’s QR code, using the Singpass app and scanning of barcodes on personal IDs, will no longer be used.
+
+&gt; Large retail stores and supermarkets inside a mall will not need to have SafeEntry check-ins.
+
+&gt; ""This is because all visitors would have already performed TraceTogether-only SafeEntry check-in at the mall entrances, and the interactions at these venues within the malls are generally more transient,"" the press release said.
+
+&gt; Advertisement
+
+&gt; Advertisement
+
+&gt; Small retail stores such as pharmacies, convenience stores and heartland provision shops that were not required to implement SafeEntry for customers, but have voluntarily done so, should also remove these check-ins to increase convenience for customers, the authorities added.
+
+&gt; 
+
+&gt; TraceTogether-only SafeEntry will also be required at solemnisations and weddings, funerary events and wakes, pre-schools and student care centres and healthcare facilities.
+
+&gt; 
+
+&gt; MOH and SNDGG said the TraceTogether programme and SafeEntry are important digital tools that enable contact tracers to quickly identify and isolate close contacts of COVID-19 cases.
+
+&gt; Advertisement
+
+&gt; “This helps to break transmission chains and prevent community outbreaks as more activities resume. While TraceTogether data identifies an initial list of close contacts, SafeEntry data provides the list of places visited by COVID-19 cases to help our contact tracers establish cluster links.”
+
+&gt; 
+
+&gt; The authorities said the combined use of these digital tools has enabled Singapore to reduce the average time taken to contact trace from four days to less than one-and-a-half days.
+
+&gt; 
+
+&gt; “More recently, TraceTogether has helped to identify 75 persons who had to be placed under quarantine, but would likely not have been picked up through a manual contact tracing process.
+
+&gt; 
+
+&gt; “This has been important in ensuring that the impact of any local cases detected were immediately contained, with very little further spread in the community. With greater active usage of TraceTogether, the coverage and speed of contact tracing can be further enhanced. This will be most important in venues or settings where community spread is most likely to occur,” they added.
+
+&gt; 
+
+&gt; More than 90 per cent of the population have either downloaded the TraceTogether App and/or collected the TraceTogether Token, said MOH and SNDGG.
+
+&gt; Download our app or subscribe to our Telegram channel for the latest updates on the coronavirus outbreak: https://cna.asia/telegram
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",0
+soccer,Your right to privacy shouldn't be at the mercy of Big Tech conglomerates whose entire modus operandi is to sell your personal data to advertisers.,1
+apple,"I find the labels too vague to offer any real benefit. And I’m willing to bet same goes for the vast majority of people. 
+
+What exactly does it mean that WhatsApp lists ‘Purchases’ as ‘Data Linked to You?’ What are ‘Identifiers?’ There’s even a ‘Other Data.’
+
+I guess it’s just more useful to look at how long the list is. The longer the list, the worse it is. And no, I haven’t specifically steered away from an app I’m already using that has a huge list of privacy labels. But it’s surely a nice thing to know, and a decent first step towards making tracking more transparent.
+
+For example, I’d like to know if an app asking for contact info permission actually saves all data of my contacts to their servers. I may have a more lax approach when it comes to tracking *me* but if I’m leaking home addresses and such of all my friends and family to some random company, then I’ll think twice.",1
+vancouver,"I'll offer my random take on why: people felt unacknowledged. Hear me out if you like.
+
+The provincial health updates are the official form of communication and serve several purposes, some of which are informing, motivating, reassuring and connecting with members of the public (whether by intention or not). We were all suddenly very isolated from eachother, so we had the press conferences instead. I'd argue that DBH and the province took a very humanistic approach to laying out Covid guidelines, and tried to appeal to the public's decency rather than enforce behaviour.
+
+'I, Dr. Henry, implore you to please sacrifice your social contacts, leisure activities, and close relationships to save lives. We need to pull through this together. Be kind, calm, safe, etc.' Many people didn't want to do this, but it was like being asked for a favour. DBH reached out, directly addressed the public as individuals, and showed such humanity that she got them to trust in her counsel.
+
+My guess is that people carrying out her requests hoped to see their sacrifices paying off and to be recognized by Dr. Henry somehow. I don't follow the conferences so I can't speak as to whether they got their recognition or not - I imagine she's had conferences where she has praised British Columbians for their efforts - but I'll posit there was some dissatisfaction. DBH saying ""do more"" when Covid fatigue had already started to settle in, without acknowledging those who were doing their best or specifying who she was addressing, came off as a bit dismissive and ungrateful. 
+
+Those people have been sacrificing their lives while others flouted provincial health guidelines with near impunity, and, in some cases, acted intentionally obtuse about it. However, since handling people is a complex task and there's growing anti-authoritarian sentiment in our culture, the kid gloves need to be worn, nobody can be explicitly *told* what to do, and nobody can be singled out. 
+
+So instead of publicly calling out those who are making the problem worse, the ones sacrificing are yet again hearing they need to redouble their efforts. That's not 'fair' in any sense. It's not hard to understand how that might feel like betrayal to people who were relying on DBH as an empathetic and personable public figure to support them. 
+
+A more common analogy would look something like this: being told to clean up the mess of your unruly sibling because your parent either assumes you made the mess, or they know it wasn't you but don't care enough to make the sibling take responsibility for their actions. You get saddled with the cleanup either way. Sounds infuriating.
+
+You could say these people were too personally invested in what is basically a parasocial relationship, or that they weren't entitled to thanks for doing what was essentially required of them, or that they should have known they weren't the ones being addressed if they were already doing all they could. Being ticked off here seems like a reasonable reaction, while getting REALLY upset about it doesn't - but it makes sense because when stress runs high and the pressure is on, human emotions don't care about logic. They erupt in ways that don't make sense to every outside observer.
+
+Anyway, that's all conjecture, I have no data points or even direct quotes to back up my grasp of the situation, so don't hold me hostage if I got something wrong. If anyone else wants to correct me or expound upon their experience, please do. I hope I represented this position well enough that it can be understood even if it's not agreeable.",0
+politics,"Our current districts wrap around each other quite a bit. For you personally, how important is compactness vs other considerations such as communities of interest or municipal/county boundaries?
+
+Also, given all the delays in data, what do you think is an optimistic time frame for completion of the districts?",0
+privacy,a great alternative (privacy-oriented) to Google Maps is Magic Earth (based on OpenStreetMap data). You can download this great navigation app [here](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth&amp;hl=en&amp;gl=US).,1
+DataHoarder,"\--I was going to recommend renting an Amazon Snowball ($300 US for 10 days as of this writing), but there might be a snag where it doesn't let you copy the data back out without shipping it to transfer to the cloud.
+
+[https://www.reddit.com/r/aws/comments/4pj6bf/s3\_snowball\_appropriate\_for\_temporary\_storage/](https://www.reddit.com/r/aws/comments/4pj6bf/s3_snowball_appropriate_for_temporary_storage/)
+
+&amp;#x200B;
+
+[https://www.reddit.com/r/DataHoarder/comments/8xfonu/borrow\_50\_tb\_of\_storage/](https://www.reddit.com/r/DataHoarder/comments/8xfonu/borrow_50_tb_of_storage/)
+
+&amp;#x200B;
+
+[https://www.rentaraid.co.uk/rental-options/](https://www.rentaraid.co.uk/rental-options/)
+
+\^ Looks promising, but expensive
+
+[https://aceca.com/raid-storage/](https://aceca.com/raid-storage/)
+
+&amp;#x200B;
+
+[https://acromove.com/rentals/](https://acromove.com/rentals/)
+
+&amp;#x200B;
+
+[https://www.arcserve.com/data-protection-solutions/arcserve-live-migration/](https://www.arcserve.com/data-protection-solutions/arcserve-live-migration/)
+
+\^ (REF: [https://community.spiceworks.com/topic/2147051-looking-for-a-100tb-offsite-backup-solution-synology-meraki](https://community.spiceworks.com/topic/2147051-looking-for-a-100tb-offsite-backup-solution-synology-meraki) )
+
+&amp;#x200B;
+
+\--Whatever you find, it probably won't be cheap to store \~100TB for a week. 
+
+ I'd be personally interested to make a note of what you end up going with, and how much it costs for 7-10 days ""100TB storage pod"" rental.",0
+NoStupidQuestions,"I used to work for a startup that gives personal loans via mobile appa,
+To register on the application you need to give storage permission.
+Once we had the permission we used to send all the photos/video/contacts to our backend.
+( Yes all )
+Defaulters were blackmailed by the collection agencies using these data/contacts.
+
+They used to shame people by calling defaulters friend's/relatives.
+
+After few suicides, the Indian government in 2020 banned around 40-50 companies ( maybe more) for practicing this bullshit.
+
+Now, they have some new regulations to protect the loan defaulters.",1
+wallstreetbets,"23 and me is going to be huge. Genomics, ancestry, data research, GSK partnership to develop pharma based on personalized results. Strong management. Profitable. Experienced. Citadel just bought millions of shares becoming majority shareholder. They think it’s the next GME/MVIS.  $10 to $80 by EOY.",1
+todayilearned,"I worked call centres for several years for a couple companies and came out suicidally depressed and completely nihilistic.
+
+There were plenty of nice callers, of course, but there were *way* too many openly evil people. Rich, poor, it didn't matter - almost everybody was a selfish piece of shit who would happily tear into other human beings if they were having a bad day. Not as a means to an end, mind you - accomplishing something had very little to do with the decision to tell a call centre employee to kill himself. They just needed to feel powerful at a time when they weren't. It was always most jarring when it was other low-income and/or customer service workers (we could see their jobs as part of the caller data in one place) who did it. And of course, sometimes they would act very sweet with me, but I would be able to read about their prior behavior in the notes or was aware that they were trying to social engineer me into screwing over an elderly relative.
+
+It really drove home for me that there is no solidarity. Good people are rare. The reason our managers give us clopening shifts in retail/kitchens is because they are too lazy to puzzle out a better schedule (or, god forbid, do the extra work themselves) and they would rather damage the life of somebody they personally know than spend more time thinking about it.",0
+europe,"and that's your opinion, based on partial information and incoherent with your previous affirmations, we could pull data from UN and other international relevant sources about is Spain is a nation or not, and I could provide you with a ton of information to support my opinion but you will not accept it, that's is
+
+But do you know what I will not do? I will not insult you, I will not call you fascist just because I do not agree with you (as other fellow Catalans did here to me).
+
+I hope one day those people notice how they are literally oppressing every other person that doesn't agree with them and feel bad about it
+
+I am very fascinated by this phenomenon. to support Spanish-nation is the  worst right-side thing you can do, while to support Catalan nation is modern and good and very lefty (even if most of the parties involved are in the far-right spectrum). I think every nationalism is wrong, there is no difference between a regional/local nationalism and a state-level one.
+
+Not everything is about catatonia (I stated several times my comments was about the difference between personalities from poor regions vs rich regions), not every debate is about independence, not everyone supporting Catalan independence is a pure entity full of goodness and not everyone that doesn't agree with some catalans is a fascist.
+
+The World is grey, not black and white",0
+AskReddit,"Tape is still super common for backups, the machine itself is expensive but the tapes are dirt cheap.
+We just bought a new tape machine for backups at the office.
+I wouldn’t use tape for personal stuff, as a cloud backup or, if you’ve got huge amounts of data, a Couple of HDDs is still cheaper but in the business world, tape is a really good option.",0
+privacytoolsIO,"This is important to point out, and IMO you shouldn't be down voted.
+
+I agree with google being unlikely to modify an app of their own accord, too much risk and too little reward (given they already have GMS installed on most androids).
+
+as to a government forcing google to, although its possible a 5 eyes government may require google to do this under current/future laws, I think we would also consider regimes like China and Iran. They would require google to, and I think its likely that google will comply if not complying threatens their data (as seen by project dragonfly). Its likely app developers like signal would kick up a fuss, along with substantial portions of the privacy and general tech community. I imagine google would either say nothing or make a bs statement to save face, but in the end nothing will be done and google would implement a backdoor.
+
+and as you said, even though all attacks are unlikely, it's still a bad thing due to it opening up additional attack vectors.",1
+AskReddit,"The world wouldn't go vegan right off the bat, it would slowly lose interest in meat, egg, and dairy. Noting this, the big meat companies would breed fewer animals to be slaughtered, and/or start investing in vegan alternatives (already happening). Eventually, breeding animals for consumption would be made illegal and the remaining animals would be killed, ending the cycle. Finally, meat, egg, and dairy production would be made illegal.
+
+Most of the comments rely on the world going vegan overnight, which will never happen.
+
+And it has been proven that a global shift to veganism would be extremely good for the environment and even the best personal choice to make for the environment, aside from not having kids.
+
+https://www.nature.com/articles/s41598-019-46590-1  
+https://documents1.worldbank.org/curated/en/758171468768828889/pdf/277150PAPER0wbwp0no1022.pdf  
+https://www.truthordrought.com/soybean-myths  
+https://www.landhealthinstitute.org/single-post/2020/07/27/environmental-effects-of-the-meat-industry  
+https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#land-use-and-forestry  
+https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#agriculture  
+[https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data)
+
+Also, animals would not starve to death or overpopulate, because we would slowly breed less and less of them, and that would be great for the animals and the environment.",0
+ukpolitics,"I never have to provide that information for anything... not sure what you're on about.
+
+NI number isn't really useful personal info. It's only really used to show you're eligible to work and calculate your tax.
+
+Your landlord will not be able to avoid knowing some of your personal information. Mine knows where I live (can you believe it?) and what my name is. That's it.
+
+My employer knows where I live, my bank details so they can pay me, and my NI number so I'm paying the right amount of tax. They know my employment record, which is fair as wouldn't have given me the job otherwise.
+
+These are all necessary bits of info neded for things to function. They're not asking you for your passowrds, account access, browsing data, card details, medical records, purchase history, your GPS data, or anything that might actually give them meaningful information about you. And it's worth remembering that the organisations who have some or all of this info have never asked for it directly because you've given it to them without realising.
+
+I agree that it's unreasonably difficult to live offgrid.",1
+GME,"If you don't like the stock at 5% retail ownership, you don't deserve it at 100% retail ownership (joke).
+
+Buddy, chill, it litterally doesn't matter, look at everything else around gme, the projected SI, the foolery with ETF's, the dumps and unnarturalness around it. You won't get the full picture of retail ownership, and you litterally just said a comment or 2 ago that they already have the percentages by way of a Bloomberg terminal and whatever trades they do process...I don't get why you need to count it up personally in a sub that does not represent all of retail anyway and thus is pretty damn useless data anyway. 
+
+You've litterally just argued that they have the data by 2 different means, 1 of which you have seen yourself too...then you're saying we need to share our positions and count ourselves any way...why if you believe they know via a Bloomberg terminal anyway...say we did count up and it was much much more, then bang, you've just corrected their incorrect data for zero benefit to retail, now they know how much they have to hurt retail to shake nervous paper hands out who don't seem to only need the many many other forms of DD out there...what the f are we talking about here?",0
+ProtonMail,"What's stupid is that i didn't consider NOT using *firstnamelastname""@protonmail.ch for privacy reasons.
+
+Either way i use my proton for everyone that doesn't leak/sell data, and gmail for known leaks and sellers. Just didn't like important stuff to be data harvested by google.",1
+datascience,"My work environment as a fed is absolutely fantastic, I’d seriously recommend checking it out. There’s an absurd number of government agencies beyond the DoD that do lots of interesting research as well. I’d personally recommend looking into positions in the many agencies in the Department of Commerce (NTIS, NOAA, Bureau of Economic Analysis, Census Bureau):
+
+https://en.m.wikipedia.org/wiki/United_States_Department_of_Commerce
+
+Not sure how many of these are bio related, but certainly you’ll find rewarding (ethical) data science opportunities available.",0
+DataHoarder,"I wouldn't stress too much about it. 
+
+I have a bajillion comics and ebooks I've been meaning to sort through (and by bajillion I mean... 30,000, easy.)
+
+The thing is, I can find them all by name if I really want them. They're all on indexed drives and I can instantly search for them and find what I'm looking for. 
+
+So organizing them into a super cool and streamlined system that is pretty looking (and maybe accessible to my friends) is a secondary project. I keep meaning to get around to it, but for personal use until then, this works just fine.
+
+The biggest thing I would focus on in the beginning is good directory structure. Don't scatter your data around. Even if it's not perfectly streamlined, keep things where they generally belong. Don't have ebooks in 40 folders across 5 drives. Have them centralized in one location in a sensible way like /Books/Author/Title and so on.",0
+Romania,"Dar aici e o problema de grup care ne afeacteaza pe toti. Cat timp spitalele sunt la limita ai zeci de mii de operatii amanate, orice accident care te-ar duce in terapie intensiva e mult mai riscant  ca personalul e la limita fiind detasati pt a sustine cazurile de covid.  
+
+Am trecut odata prin asta in noembrie si n-au pris mesajul iar acum numerele arata mult mai rau.",0
+JoeRogan,"Sweet tiktok bro, I hope the ccp steals your data and try’s to implant your online personality onto a dolphins brain",1
+wallstreetbets,"I’m honestly not sure what current laws are allowing them to do but even if it’s just for advertising that’s huge. At the end of the day, I’d say there’s zero chance that every single ounce of data filtering through a platform like Facebook isn’t being catalogued and utilized in some capacity. 
+
+We live in a world where people scream about privacy concerns and their rights, and then they tell the world - and the platform algorithm - where they are, who they’re with, what they’re eating...what they believe in, where they work...it’s the value of a million paid surveys given for free. 
+
+I don’t really care either way. Reddit is as close to social media as I get (is this social media?) but not out of some righteous stance or political perspective. I just don’t see the allure of Facebook, Instagram, any of that. But I’m also a really boring dude in his 30s so maybe my demographic just doesn’t care, I’m not sure.",1
+ABoringDystopia,"&gt; If one person could modify the database that easily over a personal grudge and get away with it, the company would have some serious security problems on top of their already shit track record at safety.
+
+As a software developer I can tell you that there are only two ways security is implemented, too much and not enough. Also, these are not mutually exclusive.",1
+LegalAdviceUK,"Good point re: PII - I'd forgotten it gets used a lot in health over here. It's not often used outside of the health sector though.
+
+&gt;If you listened to a record of someone saying the famous “quick brown fox” phrase you would not be able to identify who it was easily and possibly not at all. If the recordings were stolen or leaked anyone who got hold of them, with no additional information, would not have the ability to link them to any individual.
+
+That's not the test of whether or not something is personal data. The test is whether or not it relates to an identified or identifiable person.",1
+LegalAdviceUK,"You've already had good advice on the copyright/fair use/showing it her employer aspect so I won't address that.
+
+This however, caught my interest:
+
+&gt; storing and emailing pictures of my wife in her bikini between colleague to colleague and then having a team all decide if what she's wearing is appropriate to wear at the beach seems to have a few alarm bells ringing for me.
+
+because it sets off a few alarm bells with me too.
+
+It really depends on who these ""colleagues"" are, and to what extent they're being shared. I'd expect that they should probably travel no further than the complainer, to the complainer's supervisor, to your wife's supervisor, then to a person or a small number of people in HR and legal. There's a legitimate chain of communications there that I would expect need to be followed so the company can ""investigate"" and then come to some sort of conclusion.
+
+However, if the images are ""doing the rounds"" through your wife's colleagues and peers or to anyone who does not have a legitimate business interest in viewing those images (i.e. people who aren't involved in the investigation/have no power to decide an investigation) then I'd be putting a formal complaint in with the company on grounds of failing to control personal data per GDPR, exposing your wife to possible sexual harassment, and possible indirect gender discrimination arising from the threat of said harassment.",1
+conspiracy,"I respect your decision to get it and do what’s best for you and your family, as you should respect mine. It’s about risk tolerance, and there’s simply not enough long term data to support it for me personally. It’s about individual liberty. Someone who has diabetes is at an extreme risk for HIV. Should that person never have sex? Each year 1.35 million people are killed on roadways. Should we just stop driving to protect 1.35 million people? No. Because we understand that inherent risk. It doesn’t make people who drive cars murderers. It’s the same logic. I have read the data, judged my risk, I have natural immunity from acquiring it again, and made the decision at this time I will not get it. It’s that simple. I’m not a risk to other people as well. I’m not going to take on more uncertain risk from a non FDA approved vaccine that I don’t need, and won’t grant me any upside to my current status.",0
+AskReddit,"It should really be just selling user data in general. Hell, for all I know, Google could be unknowingly selling usage data and personal info to the dark web!!",1
+techsupport,"It looks like you have some good options from other posts here. The thing that is interesting is that your work files were encrypted and not your personal ones. This makes me think that the attack came through your work computer. Most consumer grade NAS do not have much in the way of an operating system and are just a big block of storage, so the encryption was likely done by a computer connected to the storage, not a virus sitting on the NAS or something.
+
+A common attack is just... turning on your operating system's own ability to encrypt your data. Could also be ransomware. Yeah, a lot of questions. Let's move on to recovery.
+
+I would suggest contacting ontrack, as well as the other helpful offers in this post. Someone that specializes in ransomeware, with current knowledge might have more insight. Ontrack is a data recovery service and you will have to ship your drives to them, so you might want to explore options listed in other responses first. Good Luck!",1
+Romania,"Sa faci copii e simplu, a fi parinte e o responsabilitate foarte mare iar multi nu sunt in stare sa aibe grija de un copil, daramite sa indrume un adolescent. Iar faptul ca isi varsa toate frustrarile pe tine si te trateaza ca pe un sac de box nu fac decat sa demonstreze ca nu vor fi vreodata in stare sa fie responsabili fata de tine, si mai mult ca sigur ca nici in viata lor personala si profesionala nu sunt in regula.
+
+Nu e nimic in neregula cu ce ai scris. Nu esti vinovata cu nimic pentru comportamentul lor, si in nici un caz nu esti responsabila pentru o schimbare in viata lor, sau o misiune sa le speli pacatele.
+
+Esti un copil, ceva pur pe lumea asta. Trebuie sa te preocupe viitorul tau, nu trecutul sau viitorul lor, oricat de mult te doare si tii la ei si vrei sa ai niste oameni in jurul tau sa te inteleaga si sa tina la tine. Cu cat te va preocupa mai mult fericirea lor, cu atat vei renunta la a ta. Anii vor trece, iar ei nu se vor schimba, pentru ca in capul lor isi imagineaza ca ce fac e bine, in ciuda strigatului tau de ajutor. Iti zic din experienta.
+
+Lasa psihologul, terapeutul si alte prostii ca mai rau fac. Gaseste lucruri care te fac sa zambesti, hobby-uri care te tin departe de casa, si ceva de viitor. Nu mai ai mult timp pana cand nu mai trebuie legal sa stai acolo. O biblioteca, un sport (mai greu acum dar you get the idea), o scoala de viitor, poate un mentor dintr-o industrie care iti face cu ochiul.
+
+Hai ca va fi bine.",0
+CryptoCurrency,"front page? I guess i'm obligated to do some sort of TL;DR then 
+
+&gt;Hacken was founded in 2017 by a team of security specialists and white hat hackers. Recognizing the many benefits and pitfalls of decentralized technology, Hacken began on its mission to transform the cybersecurity capabilities of the emerging decentralized world
+
+&gt;Their first product was HackenProof – a bug bounty program providing services across the crypto industry. With over 75 bug bounties successfully launched and a community of 4500 ethical hackers, Hacken was able to establish a reputation as a robust and reliable service provider. CER.live, a more recent addition to the armory, deep dives into exchange security and data, reviewing and assessing platforms to help users better understand how secure their assets are and how trustworthy an exchange is. 
+
+Features of the HackenAI application include:
+
+- CyberBootCamp: an educational program that teaches users the essentials of good cybersecurity practices
+- hVPN: A fast and secure VPN, protecting your information online.
+- hGuard (coming in 2021): A privacy application for keeping your digital and financial identity secure
+- hPass  (coming in 2021):  A password manager and secure storage facility, protecting personal data against cyberattacks, sim-swaps, viruses and malware, preserving critical information across multiple devices
+- hAuth (coming in 2021): 2-Factor authentication, denying password thieves access to your wealth",1
+personalfinance,"Coinbase doesn't normally send out forms unless there have been $20k traded on that account in that calendar year. At least, that's their policy right now. I'm not a tax pro, but I would not personally be surprised at all if it turns out that the IRS gets their hands on that data at some point. So it's best if OP gets out in front of that right now, even for that small amount.",0
+apple,"Apple should abandon a massive portion of its revenue for this? I think people have the wrong idea about Apple. They are a corporation that exists to generate profit. They do it on a way that makes everyone feel good and greatly benefits privacy for people in countries where Apple’s ideals can shine through.
+
+But they aren’t going to leave money on the table. I’m sure there’s a line somewhere, but it certainly isn’t flag emojis, maps, private email features, or offshore user data.",1
+iphone,"Why do you regularly delete chats? I don't think I've ever deleted any chat. And I Have a  lot of important data and information in the messages from A LOT of people. It's hard to save all that shit. And it's not just dates. It could be anything. 
+
+I'd rather just ""ctrl +F"" on WhatsApp and find what I'm looking for. Like an address someone sent to me in 2011.
+
+It's like having a personal Google search for conversations I've had with people over the years. 
+
+I'm the opposite of you, I've always needed a lot from my chats.",1
+politics,"People love ""leaked data"" but this stuff is right in the open. Many even more high profile politicians and personalities are saying white nationalist talking points on video.
+
+This was a weird thing during the Trump years: some of the stuff he admittedly publicly would have been a HUGE scandal if it had come out from secret leaked documents. When he just out and says it, there's.... nothing else to say I guess?",1
+privacy,"Thanks.
+
+The TL;DR seems to be
+
+&gt;Mozilla Rally is an opt-in program where you voluntarily contribute your browsing data to research studies.
+
+Here's an [example study](https://rally.mozilla.org/current-studies/political-and-covid-19-news/index.html) and [general privacy notice](https://rally.mozilla.org/privacy-policy/) that covers the platform itself and types of data they *can* collect if anyone's interested.",1
+amcstock,"My bad I was playing “wild rift “ on mobile.. anyways it’s just a theory that’s why I said correct me if I am wrong.. but from my understanding the ortex data that these YouTubers are bringing up of them purchasing options on both sides . I personally don’t have ortex account but for people who do , they can access this info..  won’t the dark pool shares eventually run out as well. Feel like they’re using every artillery they have as well",1
+webdev,"It's a page of hundreds of code snippets for personal use, not some database with all the sources listed in chronological order. I apologise if you think this is unique or some hidden gem that only elite developers know about, it's not. It's a common issue that new web devs face, and spreading the solution is good for the community. Would you want css tricks credited, or 1 of the many other posts written about this fix? Anyone with basic levels of understanding of the DOM and  JS could write this, it's here for the people who don't have that experience or want a quick fix.",0
+AIDungeon,"This isn’t entirely accurate. I mean, we can obviously point to the “automatic story summarization” feature in which users submitted summaries of their stories at certain points, which were then used to train the AI to summarize the stories.
+
+It is absolutely true that our inputs do nothing to train GPT-3 itself, and what OpenAI’s APIs return based on the tokens that are sent to them, but AID’s tech receives multiple outputs per action and tries to choose the best. Some people receive a prompt from time-to-time asking them to pick which one makes more sense, and this is to help train the AI to pick the best output from OpenAI for the adventure. It is also known that AID does not send every token from the context of an adventure for processing, so it’s entirely possible that they use user input to help improve which tokens are most relevant to sample and send to OpenAI’s API.
+
+Edit: My point is simply that Latitude are using user data to train the AI to do things, not that they affect the underlying language models, which they don’t. Only OpenAI can do that. However, because of this, users may or may not be aware that Latitude is using their inputs to implement new features and improve the way they interact with OpenAI’s API, and may or may not be comfortable with this. Users may not want Latitude to use their inputs and data to train it to do things, and telling people they do not use use inputs to train the AI obfuscates this and creates a false sense of security for those who are understandably concerned about privacy after recent events.",1
+AskReddit,"Total back to the future.  You look up longshot sports bets.  You look up ridiculously high performing stocks.  Optional: You look up yourself.  Optional: Lottery numbers.  Sports and stocks are cool but if you win a real big one time lottery then someone else does not and you are screwing over another person.  I'd be careful of Karma which probably must exist if time travel exists.
+
+EDIT:  Good luck figuring out a computer and the future Internet in 5 minutes.  Probably all have personally assigned cellular data accounts that only work if you have an access key coded to your DNA or something.",1
+privacytoolsIO,"If you somehow i think i am aware of privacy != security then let me remind you i am aware of this fact security, privacy and anonymity is completely different things but they overlap with each other in some area.
+
+That's said i do really mean “security” on iOS is not good enough even for my std for i am not even a target of nsa or anything like that simple software dev (for both android and iOS).
+
+Also getting graphene OS to work is like 5 min task it's just like flashing firmware when you brick your iOS or any other device. Maintaining security on gos is not things you (as user) don't have to maintain security on graphene system do it for you. I said i have to take care of my security because i use my self signed build of gos you don't have to.
+
+yes for non is my concern i just like to live in hard way. Privacy with convince is just a joke don't kid yourself. Security with convince oh yes of courses. But for privacy security and convince you must go the hard way or just put your trust any provider.
+
+Of course it's look you saw some of the sources about security holes in modern system. It took apple about a year to patch a remote exploit bug that chromium fixed in about 8 days in there browser.
+
+Don't be confused i am not saying android is better and more secure and then iOS or other way. I am just saying don't be like this is secure and this is not user have to take of there security by self. I also use iOS for testing my apps and so but i don't put my data or any stuff on that device it's mostly like a test device for me.",1
+Coronavirus,"&gt; There is literally no reason not to have it
+
+Let me start by saying I am pro vaccine and even got the first dose already... However... I’m absolutely against a vaccine passport. The reason vaccine passports are so questionable isn’t just because of people who don’t want to vaccinate or think showing a paper is an infringement of their freedom (cuz honestly screw them). The reason vaccine passports are questionable is because they are trackable and that’s a very huge violation of privacy + could end up in bad hands. I don’t want a data center to have detailed info on where I go and at what time (to the second) I got there... And if vaccine passports are a thing this would very likely happen since we need a way to check if the passport is valid (a number or bar code that we check against a system to see if it’s valid - now said system knows passport number 1234 was scanned at CVS at 20:37:42 pm on Monday... This gets saved at least for some time and prone to attacks as no system is 100% safe)",1
+privacy,"Privacy by design. That's like a thief advertising security by design when installing your house alarm lmao
+
+Privacy of your data from your neighbors eyes. Not privacy of your data from Google's eyes and everyone they do business with.",1
+amcstock,"Literally when you get rich invest using Warren Buffets style of value investing. There are plenty of books to learn, with some personal favorites being Phil Town, Joel Greenblatt, etc. You can be super conservative and still grow your massive wealth at 15-25% a year taking low risk. Our problem has always been starting with a low amount of money. When this blows up consider 2/3 of your new wealth your new capital for investing, and for gods sake learn about covered calls, dividends, etc other easy ways to grow your wealth. I love my fellow apes, but the thought of them going back to dumb shit like purple gang, tanker gang, weed stocks,  put and call yolo’s, etc makes me ill because I’d rather see them start a new set of skills for life.
+
+Hedgies will not forget this win, and they will be out to fuck us over with rug pulls, pump and dumps, and other nasty shit to separate us from our funds. Reddit will be loaded with lurkers, data miners, and algo’s ready to jump all over convos. CNBC has been proven as propaganda, as is the wall st journal, motley fool, etc. You want to keep your wealth AND grow it, some of you are going to have to learn a new set of skills. I hope you all do, and hope to meet as many of you as I can for beers.",0
+excel,"The Imgur link comment was deleted by a mod because it showed personal info (email id). So, you will need to post it again using dummy data and in the original post description",1
+sysadmin,"That doesn't make any sense, since the provider is not tied to your employer.
+
+I recently changed jobs and my healthcare provider emailed me with a short online form. Basically, when/if are you starting a new job, what's the name of the new company, etc. All electronic. My new employer isn't even involved other than getting a ""you need to pay this much"" message from my healthcare provider.
+
+My new job contract, on the other hand, is nearly 40 pages. Including extra data privacy, intellectual property, and other amendments. It had to be printed 3 times, signed by me 3 times, shipped to the US to be signed by a parent company officer, then back to Germany to be signed by the German subsidiary.",1
+gdpr,"Are your lawyers skilled in data protection law?
+
+That's a very bad way to inform people; simply include a link to your notice (a policy is a set of internal rules) in your contact form, before the submit button is generally good (you can also include a checkbox with some phrasing along the lines of ""I understand that my personal data will be processed by \[company\] as described in the notice""; but this is not mandatory).",1
+technology,"Why would any Facebook user care? They’ve already agreed to give away their data to a faceless entity for access to the site, why should they care who actually gets the data? I personally stopped using Facebook and all it’s subsidiaries years ago, so I imagine anyone else like me would actually care, but those still on Facebook sold their souls ages ago.",1
+politics,"She’s claiming that she was ordered to falsify data, so far without evidence. Not saying it isn’t true, but so far it’s unsubstantiated, and it’s not irrelevant that she has a history of unstable behavior. Again, she could be 100% right, but I’m not personally believing something this serious without evidence.
+
+It’s also highly, *highly* suspect that a low-level employee would be asked to participate in a cover-up that could, if exposed, result in not only multiple resignations of public officials but in actual jail time.",0
+teenagers,"And I took exception to you saying that the children turn out “OK”. 
+
+It feels like you are undercutting the very real damages that my siblings and I deal with on a daily basis due to our childhood trauma. Be it substance abuse, body dysphoria/eating disorders, depression, anxiety, PTSD...pick your poison. 
+
+Maybe I’m just taking it personally. I really haven’t seen the data on this. Nor have either of us defined what “OK” means. In general though I think [the kids aren’t alright](https://youtu.be/7iNbnineUCI).
+
+Edit: [Decent writeup](https://www.psychologytoday.com/us/blog/romance-redux/201609/8-common-long-lasting-effects-narcissistic-parenting) of common long lasting effects of narcissistic parenting.",0
+Steam,"I think we're just going to have to agree to disagree on this one. I don't see a fraction of their Fortnite player base 10 years from now being a sustainable business model. 
+
+You're presupposing a number of factors that I frankly don't think bear out. At least not without data that neither of us have access to, such as the percentage of Fortnite players of a certain age range that take advantage of the free game offers, for starters. There are also unpredictable factors to consider, like whether Fortnite continues to be successful and for how long. There's an awful lot of random chance if that's their business model, which is why I don't think it is. Further, if that was the plan, then buying up exclusivity rights would be unnecessary. 
+
+My personal opinion is that EGS won't be around 10 years from now. At least not in it current form. If they lost so much money and had such a relatively small amount of engagement in a pandemic year when gaming exploded, how do you honestly think they're going to do when things return to something closer to normal? I could easily turn out to be wrong, but it's not rocket science to look at the numbers and get an idea of the trajectory. Actually that is rocket science, but you catch my meaning.
+
+Lastly, I think you're underestimating today's youth if you think that they're not capable of making informed decisions just because someone gave them some free games when they were 10 years old. 
+
+But I guess time will prove one of us right.",0
+PersonalFinanceCanada,"Yes, it's normal for them to ask about information that isn't on your credit history as part of your verification.  The Japanese credit card seems oddly specific for (unless it's based off your name).  
+
+But since we don't register our information with equifax, they try to match data based on name, address, and other personal data, and they get it wrong enough that you can find posts each month about errors.
+
+This is why it's advised to check both your credit reports at least once a year to ensure there are not errors.",1
+AskReddit,"I've done some digging out of curiosity, from NHS guidance [here](https://www.nhsx.nhs.uk/information-governance/guidance/subject-access-requests/) scroll down to ""exemptions"". While it isn't the actual law (which I am still looking for) it describes exemptions to subject access requests.
+
+&gt; Some of the current exemptions include the following:
+
+&gt; * you believe that **disclosure of the information is likely to cause serious physical or mental harm to the individual or another person** [Emphasis added]
+
+&gt; * confidential references provided by an employer in support of a person’s application for employment are exempt from SARs
+
+&gt; * employers do not have to disclose information which relates to legal advice or legal proceedings as this is covered by legal professional privilege
+
+&gt; * personal data which relates to management information such as management forecasting.
+
+&gt; In addition, you do not have to provide a person with a copy of their health and care records if you believe their subject access request is “manifestly unfounded or excessive”.
+
+So it seems to me --- again reading with the legal mindset of ""all"" versus ""most"" --- that still some information may be withheld from patients.
+
+Even putting this in the context of the earlier situation, the 1970s a soldier learning that they were mildly intersexed with ovaries but no other concerns, I can easily imagine arguments for the exception that *""you believe that disclosure of the information is likely to cause serious physical or mental harm to the individual""*.",0
+AskReddit,"The best thing you can do for your privacy is to care about your security. And the best thing you can do for that, if you aren't already, is to use a password manager. It is stupidly easy for someone to compromise you entirely if you use the same password for everything, even if you think your password generating skills are good (they aren't). 
+
+I recommend using a free and open source password manager. The two best, in my opinion, are Bitwarden (cloud-based) and KeepassXC (utilizes a local database file stored on your PC). Both of these password managers have excellent password generators in them and you should *absolutely* be using long, unique passwords for every single account you have. 
+
+Contrary to popular belief, VPNs are fairly useless from a privacy standpoint. The only real use that a normal person would have for them is to get around geo-locked content. They do not enhance your privacy *at all*, and the security they give you is only marginal (the TLS used to encrypt almost all web traffic nowadays uses the excact same encryption most of the time). 
+
+Of course, all of this depends on how paranoid you want to be. I'm fairly paranoid so I do a lot more than this.",1
+mildlyinfuriating,I'd rather save my computer and my data than get the info and kill my privacy online.,1
+worldnews,"1. ""Effectiveness of N95 respirators vs surgical masks against influenza”
+
+Discussion
+
+""The use of N95 respirators compared with surgical masks is not associated with a lower risk of laboratory‐confirmed influenza. It suggests that N95 respirators should not be recommended for general public and nonhigh‐risk medical staff those are not in close contact with influenza patients or suspected patients.""
+
+\- this seems to be comparing N95 to surgical masks in terms of risk to influenza. Nothing is stated about either of these masks being ineffective whatsoever in prevention in comparison to not wearing a mask.
+
+2. “Effectiveness of N95 respirators vs surgical masks in protecting health care workers from acute respiratory infection”
+
+Discussion
+
+""Although N95 respirators appeared to have a protective advantage over surgical masks in laboratory settings, our meta-analysis showed that there were insufficient data to determine definitively whether N95 respirators are superior to surgical masks in protecting health care workers against transmissible acute respiratory infections in clinical settings.""
+
+\- again, the same thing as the above. The study is suggesting that the risk is the SAME between mask, but does not state that masks are ineffective in prevention. Furthermore, to quote directly from this study:
+
+""Transmission of acute respiratory infections occurs primarily by contact and droplet routes, and accordingly, the use of a surgical mask, eye protection, gown and gloves should be considered appropriate personal protective equipment when providing routine care for a patient with a transmissible acute respiratory infection.[**1**](https://www.cmaj.ca/content/188/8/567?fbclid=iwAR34vdMwRdAYOOpRLAVmRXSq4Qdjg7_nY3L9OlmgvLOcGM3NFPkhCCXeXpa#ref-1)–[**3**](https://www.cmaj.ca/content/188/8/567?fbclid=iwAR34vdMwRdAYOOpRLAVmRXSq4Qdjg7_nY3L9OlmgvLOcGM3NFPkhCCXeXpa#ref-3) Concerns have been raised about possible acute respiratory infection spread via limited-distance airborne transmission, but this is controversial and has not been proven.[**1**](https://www.cmaj.ca/content/188/8/567?fbclid=iwAR34vdMwRdAYOOpRLAVmRXSq4Qdjg7_nY3L9OlmgvLOcGM3NFPkhCCXeXpa#ref-1),[**4**](https://www.cmaj.ca/content/188/8/567?fbclid=iwAR34vdMwRdAYOOpRLAVmRXSq4Qdjg7_nY3L9OlmgvLOcGM3NFPkhCCXeXpa#ref-4)–[**9**](https://www.cmaj.ca/content/188/8/567?fbclid=iwAR34vdMwRdAYOOpRLAVmRXSq4Qdjg7_nY3L9OlmgvLOcGM3NFPkhCCXeXpa#ref-9)**.""**
+
+3.  “Disposable surgical face masks for preventing surgical wound infection in clean surgery”
+
+Key Results
+
+""Overall, we found very few studies and identified no new trials for this latest update. We analysed a total of 2106 participants from the three studies we found. All three studies showed that wearing a face mask during surgery neither increases nor decreases the number of wound infections occurring after surgery. We conclude that there is no clear evidence that wearing disposable face masks affects the likelihood of wound infections developing after surgery.""
+
+\- this study is full of potential biases and is clearly stated in the article itself, with limitations. Regardless, this doesn't change the fact that surgeons should NOT wear masks when performing surgery and is a golden standard to prevent infection and maintain the patient's health post-surgery.
+
+What I gather from these articles, is that the effectiveness between N95 and surgical masks are hotly debated, their efficacy in prevention is not in question when discussing overall prevention of infectious disease.",0
+apple,"How does tracking equal 'provide user data to third parties'? That's how it's defined in their own materials, but it isn't what most people mean. Facebook also try to avoid giving your data to third parties, since they make so much money from their own access to it.
+
+You say that Facebook and Apple can both track people within their own apps, but on Apple's platform those are qualitatively different things. The App Store for instance is a core uninstallable part of your device, whose function cannot be replaced. Additionally, Apple are able to track users outside of their own apps without any such notices.
+
+To be clear, I'm not agreeing with Facebook at all here. I think these privacy controls increase awareness and choice, and more options should be available for data collection by *both* companies.",1
+conspiracy,"This might also be of help:
+
+Timestamps:
+
+00:00 Introductions
+
+02:20 This must be discussed
+
+03:13 Will herd immunity be reached?
+
+07:58 Spike protein is very dangerous 
+
+13:45 FDA knew it could be toxic if it didn't stay stuck
+
+18:09 Vaccine sufferers censored
+
+23:26 Reviewing the FDA data package 
+
+26:41 Corners were cut
+
+27:52 Steve looking at VAERS
+
+32:37 Robert's friends at the FDA and the emergency use authorisation
+
+37:38 Risk benefit and quality life years
+
+40:18 Alternative to vaccines
+
+44:19 Mask wearing RCT
+
+45:28 Three anomalies around vaccines
+
+46:05 Fluvoxamine trials
+
+51:00 Two million dollar offer and the NIH
+
+52:13 Robert's view of the NIH
+
+53:00 Regulatory capture
+
+54:41 Fauci's emails
+
+56:30 Merck on Ivermectin
+
+59:24 Emergent phenomenon
+
+01:01:42 Vaccine deaths
+
+01:03:24 Tess Lawrie's vaccine safety data
+
+01:04:43 Difference between the gene therapy vaccines
+
+01:06:40 Self reported deaths from vaccines
+
+01:09:18 Adverse reactions
+
+01:17:12 Robert on V-safe database
+
+01:19:30 Social media censorship
+
+01:22:20 Steve's experience with denial
+
+01:24:17 Two teams
+
+01:28:20 ""Don't come back until your lips are blue""
+
+01:30:52 ""Treat people early with drugs""
+
+01:32:11 Ignoring frontline doctors
+
+01:35:39 Financial incentives
+
+01:37:28 Response to demand for RCT on ivermectin
+
+01:38:39 Robert's personal experience with repurposing drugs
+
+01:40:52 Mink and ferrets lab research
+
+01:43:53 Robert on animal model for COVID treatment
+
+01:46:33 Ivermectin works
+
+01:49:13 Repurposing drugs
+
+01:52:17 Doctors ignoring treatments
+
+01:55:31 Effective treatments for long haulers
+
+01:56:45 Robert's response on incentives and hospital liability
+
+02:01:42 Additional antiviral and Gilead overlooking it
+
+02:03:13 Communication is forbidden
+
+02:04:53 Using antivirals as soon as virus presents
+
+02:06:41 Multiple drugs at once and Dr Drew
+
+02:11:02 Trials with drug combinations
+
+02:13:53 Criticism of Fauci and mechanisms of action for ivermectin
+
+02:17:35 Pfizer data on where the vaccine spike protein goes
+
+02:20:42 Spike protein in the ovaries and bone marrow
+
+02:22:12 FDA signals of risk from vaccines and auto-immune issues
+
+02:27:41 Bret summarises and discusses additional harms
+
+02:28:31 Vaccines possibly causing escape mutants
+
+02:31:56 Antibody dependent enhancement (ADE)
+
+02:38:19 Why did Robert and Steve get vaccinated?
+
+02:40:54 Summary of risks including coagulation problems
+
+02:42:41 FDA, thalidomide, and reproductive toxicity
+
+02:48:12 Vaccinating adolescents
+
+02:50:00 Steve on vaccinating his children and the response he receives
+
+02:56:38 Don't be a pioneer, you'll get arrows in the ass
+
+03:00:01 Extended regulatory capture
+
+03:01:10 Can Elon Musk save the planet?
+
+03:05:17 Pharmaceutical industry offshore
+
+03:08:59 Steve's solution, plea to big tech employees, and vaccine long haulers
+
+03:13:41 Robert speaking to big tech employees
+
+03:15:55 Wrap up",0
+programming,"&gt; Definitely not, but when you're a salaried employee technically hired 24/7. 
+
+There's a thing called work-life balance which makes it so my personal art and excel spreadsheets tracking finance - which technically both involve code - are part of my life and not my work. 
+
+Are excel spreadsheets and pictures part of work? Yes. And do these hobby projects technically overlap with the things companies like IBM or some FAANGs are doing? Yes. And therefore they are tangentially related and fall under the clauses in their contracts. 
+
+If your job is to manage databases and you build computational photography code on the side for fun, your company should not be able to claim ownership over your work even if it has a team across the globe that happens to work with pixel data. And yet, our current law makes that at best a gray area. At worst, you are indeed a slave to your company (though arguably the contract is unenforceable).
+
+And please don't attempt to claim that how things are is an argument for how things should be. Capitalism, IP ownership, and employment laws have plenty of space for improvement.
+
+Some companies have mechanisms for copyright release, but they themselves are also broken given how much 
+
+&gt; You're not doing a 9-5, you're doing your responsibilities for that week, regardless of how long it'll take you.
+
+This can be used as an argument for ""if you are working 20 hour weeks but your employer is happy, then good for both of you. Once you've completed your responsibilities for the week, you are done working, and your minecraft x86 simulator is not your employer's business"" which I would agree with.",0
+Monero,"Ok we have two arguments here, right? 1 is the ""minimum components"" and 2 is the lack of nodes. And the question is whether 1 is responsible for 2.
+
+Regarding 
+
+**1) I would argue that the components necessary to run an XMR node are currently already not highly specialized**, and even less so in the future. (For context to others: We're talking about non-mining nodes)
+
+Other than when holding XMR exclusively on an exchange, the hardware required to use Monero is also sufficient to run a node. ""If you can use it, you can 'node it'"". Although I wouldn't recommend phones, both a phone or a computer are positively capable of running a node. The minimum requirement is ~45GB of storage space on any machine capable of running the wallet software. 
+Standalone nodes (e.g. Raspi) and SSDs are more of a convenience factor for separating processes and speed (especially during first sync) but not a necessity. I've successfully run nodes off of 64GB SD cards and old 5400rpm HDDs. They will work.
+
+Now to **2) I agree there could be more nodes. Imho it comes down to ""convenience"", (reduction of) obstacles, and (helping with) technical skills.** People want to help and want to support. When they plan their support, they come across various obstacles. And the more obstacles we reduce, the more people will do it. It comes down to try it yourself and publish your solutions. In my opinion **the biggest current obstacles are related to the though process of starting. i.e.:**
+
+A) **Considering running a node on a personal computer** but the two use-cases don't mix well for most people. Nodes are low computation, medium to high storage, medium bandwidth, permanently on, and people don't know about the security of opening ports. So you might come across any of these thoughts:
+
+* I don't have 120GB of storage and don't know that pruned nodes are a thing. Or I have 65 Gig free right now, but I don't want to fill 45GB+ permanently with Blockchain data because where is my next 35GB torrent gonna go?
+* I don't want to have my computer permanently on 
+* I don't want to think about performance issues when gaming / rendering,...
+* I'm scared the open ports make my PC vulnerable to attacks
+* I don't know how much data this uses. Does my ISP maybe care?
+* Do I expose myself or my public IP?
+etc... This is a mix of very valid preferences and some uncertainties. If your beast of a machine is always on and you know how to secure it...no problem. For anyone else these concerns are a hindrance. I personally had all of these questions and it takes time to find a solution to the incompatibility of personal computer and node, and all the answers regarding security. That's what lead me to the Raspberry Pi Node, and then we get into more questions of technical skill and convenience.
+
+B) **Considering running a node on a standalone machine / Raspi** but... how? You can use an old computer with any OS you're comfy with. Or use a Raspi 3B+ or 4. These things are perfect because they keep my computer clean and running them permanently costs very little power. However, these things are linux boxes, require external storage, and there are a 20 little things that can go wrong when setting one up. The bandwidth and security questions are identical as above. For anyone that doesn't have Linux and/or Raspberry Pi experience (I'd argue a thin majority of XMR users) **this is a time consuming learning curve and big commitment. Thus reducing this exact entry barrier is imho key.**
+__________________________________________
+
+
+**In other words: Run a node and take note of your obstacles. Then find everyone that was willing to run a node but didn't, ask why, and remove every obstacle you have control over.**
+
+From my purely personal perspective, I would argue that the lack of monetary incentive certainly is among the obstacles you'll come across, but not the most important one.
+
+__________________________________________
+
+My personal note:
+
+Shermand100 and the PiNode community have already tremendously lowered the entry barriers for beginners, and when I tried to join, a few small RPi-specific quirks (not errors of the PiNodeXMR project) drove me up the walls. I want this barrier to come down, I [published the learning curve and steps](https://www.youtube.com/watch?v=riK8t_4llXw) so that others aren't discouraged. This stuff needs to be easy. No one got time. 
+
+I am very thankful for anyone who tries. And if you run into obstacles, post them immediately. For anyone that does, there are 10 people who might have given up. More importantly, post your solutions.
+
+___________________________________________
+
+Regarding the above-mentioned questions: 
+
+* Security: A raspi note set up exactly as described in the video above will only have the ports 18080 and 18089 open. These are forwarded by the router to only the Raspi (not your computer) and I am not aware of any attack that successfully uses this as an entry point or can escalate permissions based on these ports. I'm not a 5-star hacker but penetration testing is a love of mine. I try to hack myself with every tool i come across. I would never knowingly accept devices that offer attack vectors. I've ditched other Raspi projects because of this, but XMR-Nodes are fine.
+
+* Privacy: When running a standard public node your IP would be public, but even then it would not be possible to identify transactions that are yours (due to Dandelions obfuscation). You can permanently and completely hide your IP (e.g. if you live in an easy to identify area) by running Node + VPN or running a TOR node (both no problem and available as a feature in Pinode XMR).
+
+* Bandwidth: My fully synced full node (70-90 peers) permanently uses an average of 25 KB/s up and 20 KB/s down. Its nothing. Completely pales in comparison to a single movie on netflix.
+
+Price for components (where I'm from):
+
+* Minimum Raspi Node (Pruned):
+RPi3B+ + Power supply + 64GB SD = 62 USD
+
+* Average Raspi Full Node:
+RPi4 (2GB) + Power supply + 250 SSD + SATA adapter = 108 USD 
+
+* Great Raspi Full Node that will run for over a decade:
+RPi4 (4GB) + Power supply + 500 SSD + SATA adapter = 156.4 USD
+
+As I said, even at current crash rates, a node that runs smooth for a decade costs less than 1 XMR. Add price for power: 9W permanently = 0.009kW/h or 78.84kW/h per year. At e.g. $0.30/kWh that is another 23.6 USD per year. So running the most expensive of the 3 versions for 10 years still costs less than 2 XMR. If one believes in XMR, the costs will pale in comparison to the benefit.
+
+I'm happy to address any other obstacles or concerns of anyone at any time",0
+privacytoolsIO,"W10 education and Enterprise are essentially the same in every aspect with minor usage tweaks. 
+
+You can opt out of telemetry here as well. While setting up &gt; turn off everything in privacy screen. That would be more than enough but if you still want to opt out of required telemetry which doesn't include any personal data- you can turn it off with a single toggle in GPO.",1
+GME,you should also double check the personal data they input into your account from your id card. For me they misspelled my street name for example. Maybe something similar happened here as well.,0
+relationship_advice,"Hey dude, if you can't read, I'm sorry. This doctor, who was **NOT the ""Chief Science Officer""** but was the VP and chief scientist **of Allergy and Respiratory,** who left Pfizer in 2011, who said COVID ended in October 2020, and who penned a letter based on a concern a related protein may be impacted by only one of the vaccines (Pfizer) who indicated no evidence it was impacting fertility whatsoever and published the letter with another doctor involved said COVID is no worse than a seasonal flu. They are really not authorities you want to use for your argument. Especially after they've been so thoroughly refuted by the larger scientific community.
+
+And then, clearly you also failed to read the BMJ article.
+
+I didn't bother linking this before, but the death rates for COVID are effectively underreported. Cases associated with myocarditis, pneumonia, etc sometimes don't get attributed to COVID but appear as part of the truly massive increase in excess deaths during the pandemic:
+https://ourworldindata.org/excess-mortality-covid
+
+Notable excerpt:  *The UN estimates that only two-thirds of countries register at least 90% of all deaths that occur, and some countries register less than 50% — or even under 10% — of deaths.*
+
+
+But as mentioned in the first response, I don't have an illusions I can convince someone who values defending their personal belief over assessing available scientific evidence. This information is for people who happen into this branch of the comments and are still open to thinking critically or have at least a minimal understanding of the difference between empirical research and Facebook-distributed conspiracy theories.
+
+PS: I work in a healthcare setting where I've seen some really fucking terrifying shit come from COVID. New onset psychosis in someone who demographically isn't at risk? Multiple yeps. Pink sludge coming up respirator tubes? Big time. Losing more than a hundred pounds (muscle is the first to go) while on life support? Seen it.
+
+If you want to take your chances with something like that out of ignorance, all I can do is wish you good luck and beg you to stay home as much as possible for your safety and that of the innocents you endanger.
+
+EDIT: Gave the doc his title. Also removed an unnecessary ""of.""",0
+technews,Why a company that sells me a car needs to store my personal data is beyond me.,1
+NoNewNormal,"Vaccines totally work. I'm 100% in support of a persons right to take one. I won't be taking one for Covid because: I am not old, I do not have co-morbidities, I'm not obese, and those who are at risk are now vaccinated. I personally know 8 people who've had covid. A couple in their 60's. They are all fine. 
+
+Covid is nowhere near as deadly as the media has led people to believe. That's why the pro vaccine argument has shifted to ""get it, to regain your freedom"" and not ""get it to stay alive"". The overwhelming majority of people who catch covid get sick, and the get on with their lives.
+
+And no I don't believe the accuracy of the death numbers being reported. It's intellectually dishonest and bad data gathering to count 1 full covid death for someone with multiple co-morbidies.
+
+ Vaccines I WOULD take include, ebola, yellow fever, malaria,etc. But not for Covid. Not yet at least. I'll wait and see how everyone is doing who took it in 3-5 years, then I'll re evaluate.",0
+GME,"ARCHIVE
+
+**10:32 Update**
+
+Another strike incoming. This time getting it into the Red. Are they trying to force some downward momentum, or was this a preventative strike.
+
+Current price: 178.66
+
+**10:30 Update**
+
+Volume has really died out. If it stays this slow, it might not break 20,000,000, however, there is still a lot of market and a lot can happen. I doubt it'll stay slow.
+
+Volume: 4,000,000
+
+Current price: 184.97
+
+**10:25 Update**
+
+Attack seems to have stalled. Does GME still have upward momentum?
+
+Current price: 184.50
+
+**10:18 Update**
+
+Just as we saw a giant in volume, GME looked to explode, however a missle strike from the HF took a chunk ($3) out of it's price and seemed to have slowed the momentum for a bit.
+
+Volume trajectory is still dropping. Decent chance it'll be under 30,000,000.
+
+Current volume 3,500,000
+
+Current price: 196.24
+
+**10:08 Update**
+
+Volume is slowing a bit. The current trajectory is down to around 33,500,000.
+
+There's obviously a lot of market left to happen, but GME has been pushing up all day.
+
+Current price: 187.86
+
+🚀🚀🚀
+
+Move over you Wrinkle Brains! A Smooth Brain Ape is coming to the front page. Y'all are smart and all, but y'all are too smart for smooth brains. I'm here to translate your intelligence into something I hope other smooth brains would understand. I am not your enemy. I come not to compete. I come not for fame. I come to spread your news to the world beyond this city.
+
+Ape Together Strong
+
+Current price: 190.02
+
+**9:48 Update**
+
+Volume so far is at 1,600,000 which currently trajects to 36,000,000 by EoD. That's close to Friday's number.
+
+It's going to get bumpy
+
+Current price: 184.26
+
+**9:44 Update**
+
+There are a lot of Apes looking for me that are lost. There are not enough votes for this thread to be seen at the top of GME. If y'all can help me redirect those apes here, I would greatly appreciate it.
+
+Ape Together Strong
+
+Current price: 188.15
+
+**9:40 Update**
+
+Just kidding! Volume started really slow, but jumped up a bit after. GME regains all losses and looks to be moving up.
+
+Let's see when that HF flyby comes.
+
+Current price: 186.57
+
+**9:34 Update**
+
+HFs looking like they're striking early. The balance point for options this week is 150. HFs may be looking to get there. What they want to avoid for sure is GME hitting 250.
+
+We'll see what happens.
+
+Current price: 179.01
+
+**9:30 Update**
+
+The thread works!!! OPEN THE MARKETS!!
+
+Current price: 182.46
+
+**9:25 Update**
+
+Sorry y'all, I have to make a post here. Please forgive me for intruding. I know I'm not the type of Ape you normally expect here.
+
+Current price: 181.60
+  
+**8:30 Update**
+
+  
+Even though GME is currently near where it closed on Friday, pre-market has been very interesting. At one point, there was a decent surge up to 187 before settling back down to 180. I have no idea what this morning or this week will bring. They are borrowing shorts and making transactions in places where we can't trace them. What I will do then is to try and watch the price and report on movements that I feel are significant. If I can find patterns to follow them through, I'll let you know.
+
+  
+Shorts available for GME show at 20,000. This isn't a lot all things considered, but it is something. 
+
+  
+Current Price: 181.50
+
+  
+🚀 **Morning Report**
+
+  
+**What happened on Friday?**
+
+  
+I received a lot of messages about how others were also confused about what happened on Friday. I also had some people offer good explanations as to what transpired on Friday. I read a lot of DD that went down on WSB and at the GME subreddit. The condensed version is this:  
+The Russell 2000 was shorted. I didn't realize that it was possible to short something that big, but it's possible.
+
+  
+There was a HUGE liquidation in the sum of over 10 billion through Goldman Sachs. Many are speculating that this was a couple of hedge funds that were forced to liquidate. Is the the start of things to come?
+
+  
+The combination of those two things is what made Friday so strange.
+
+  
+GME still ended up ahead of the balance point, so GME's position is still fairly strong.
+
+  
+**What happens this week?**
+
+  
+Much of the same. We're going to watch the HFs continue to do some crazy voodoo magic to try and control GME's price. They are at a point where they are moving mountains in order to establish some sort of control.
+
+  
+**Is 250 the battleground for this week?**
+
+  
+I did a lot of research into the option chain for this week. If you look at these charts:
+
+  
+[Total Share Growth from Previous Strike Price](https://puu.sh/HtjvK/7c490c8186.png)
+
+  
+[Percent Share Growth from Previous Strike Price](https://puu.sh/HtjvS/5ca501ea27.png)
+
+  
+[Cumulative Percent of Calls/Puts In The Money](https://puu.sh/HtjE1/c3bca0f73b.png)
+
+  
+You can see that something crazy is going on at 250. I personally believe that this is where the HF will try and pin the price for this week. The implications of that are quite staggering, because that would imply that they are expecting the price to go up to at least 250 this week. If previous weeks are any indication, I would suspect that we are going to see a strong climb above 250 until it gets bombarded and dropped to around 250. This is pure speculation. The other scenario is that 250 is where a Gamma Squeeze could happen and GME could fire off from there. Knowing the HFs though, they'll find some ridiculous way to bring the  price down.
+
+  
+I have the excel sheet with the data that I used that I'm happy to share. I'm scared to post it here as I don't want to accidently run into AutoMod.
+
+  
+**New DD on how HFs are manipulating the market.**
+
+  
+I read some incredible DD by the user jsmar18 yesterday that goes into detail on how the HFs are manipulating the market. It's very technical, but I want to try and offer a really simple explanation.
+
+  
+HFs have to cover their shorts. HF are bending rules to hide some of their actions. Their actions manipulate the price so that they can try and control where it goes. As they manipulate the price, they try to cover their shots AND make a profit on the volatility. They are using new shorts to cover old shorts. The shorts are a ticking time bomb that they keep tossing around and delaying in various ways.
+
+  
+The problem is that people are still buying shares, which makes their manipulation very difficult. It is also costing them a lot of money now and in the future.
+
+  
+At the end of the day the story doesn't change. Regardless of what kind of voodoo magic they're doing, the HFs have to eventually cover their shorts. Everything else is a stalling tactic to try and convince everyone to sell.",0
+Coronavirus,"India is hiding data(even covid deaths). We won't know for a long time. But anecdotal evidence (which means little) based on people I personally know, a lot of below 40 in my circle (say about 15 our out of 40 acquantances) were hospitalized. All healthy people
+
+Doctors in interviews say they did not see so many young people need oxygen during previous wave",1
+selfhosted,"This is the first time I hear about using a vps in a way similar to cloudflare.
+
+Personally I will do what I can to go out of cloudflare bubble, as its currently centralizing the entire web, and cloudflare has MITM access to your encrypted data
+
+https://trac.torproject.org/projects/tor/ticket/24351
+
+https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+
+https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md",1
+Portland,"They also just won't be giving any medical information to Oregon Lottery:
+
+&gt; Only vaccinated people will be entered into the lottery, which will use names from the Oregon Health Authority’s database of people inoculated against COVID-19. But officials want to be very careful about protecting privacy, so the health authority will only give lottery officials individual identification numbers assigned to each vaccinated resident. The lottery will draw from those numbers, then notify the health authority of the winners.",1
+technology,"&gt; You have to go into settings and then into Google account settings and then privacy and then advanced settings. 
+
+What are you trying to explain how to get to? Because that pathway doesn't exist on my Pixel 5 with the latest Android 11 May update. Google account settings are separate from device settings and are the same across devices.
+
+There's no ""Privacy"" setting option in the Google Account settings. There is a separate ""Privacy"" option in the main system settings... and that's been there for quite a while from my memory. It's not buried under anything else, it is exactly where one would expect it. It has the most used settings immediately visible like which apps are connected across personal and work accounts, accessibility apps that have extra access like password mangers that need to display over other apps or read form data and input, and of course the permission manager. The more complicated settings like ones that you would set once and not touch again are under an Advanced arrow that doesn't even load a new page it just extends to show the additional options like auto-fill, advertising, and device personalization settings. The settings you set once and then don't change often.
+
+I've never had these settings change from my experience. They're exactly where they were when I set them up years ago.",1
+learnprogramming,"Yes, many banks don't provide any way for a third party to authenticate users.
+
+If you read [Mint's Wikipedia page](https://en.wikipedia.org/wiki/Intuit_Mint#Controversial_practices), you'll find that Mint's solution is rather controversial:
+
+&gt; Mint asks users to provide both the user names and the passwords to their bank accounts, credit cards, and other financial accounts, which Mint then stores in their databases in a decryptable format. This has raised concerns that if the Mint databases were ever hacked, both user names and passwords would become available to rogue third parties. 
+
+Many banks, such as Chase, honestly hate this practice. (If you read the Wikipedia article, Chase actually sued Mint.) On Chase's [website page](https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect), Chase writes:
+
+&gt; ""Giving anyone access to your accounts can put your financial information and your money at risk. This includes financial websites and apps that offer tools to help you manage your accounts, invest or prepare your taxes.""
+
+They don't mention Mint by name but ""financial websites and apps that offer tools"" clearly references Mint. The Wikipedia article does note that they eventually agreed to build out a more secure system so Chase no longer has this security issue. But this same issue plays out for all the other banks out there.",1
+todayilearned,"The data could easily be scrubbed of personal information. Studies use actual people, literally, all the time. I feel it is a disservice to hide the info for so long.",1
+privacy,"Change your mail service to Proton Mail or Tutanota. These two mail services say that they store your data encrypted on their servers, so even they can't see what email you receive and send. Be careful, If you lose your passwords you can't change your password, you should open new account.
+
+Change search engine Duckduckgo if you don't like result or when you don't like switch [startpage.com](https://startpage.com), It shows google results. Also Brave search is developing, it will be ready soon. This search engines use openstreetmap for location search, if you like it use it instead of Google Map.
+
+I suggest web browser Brave and Firefox, for Firefox change some settings for  better privacy. These two are free software. Brave comes with privacy settings but Firefox is best about customization. if you do this, don't worry about cautions that websites ask permission for cookies, What every you choose your browser try to block them.
+
+Don't allow third party ads. This is bad for creators but these ads follow you on internet. Browser settings and extensions handle this.
+
+These are easy and good things to do for privacy.",1
+Futurology,It's not the only one capable.   Is the only one that wants to.   Google and Microsoft doesnt give any care in the world about privacy of it's product..... I mean users...   They  need to up their  marketing and realize that data is profitable and needs to be sold at a  higher price like apple does.,1
+legaladvice,"---
+&gt; http://imgur.com/a/myIAb
+
+---
+*I am a bot whose sole purpose is to improve the timeliness and accuracy of responses in this subreddit.*
+
+---
+**It appears you forgot to include your location in the title or body of your post. Please update the body of your original post to include this information.**
+
+---
+***Do NOT delete this post - Instead, simply edit the post with the requested information.***
+
+---
+
+Author: /u/lizadolotta
+
+Title: **My niece is being abused by her narcissistic stepmother. Please Help.**
+
+Original Post: 
+
+&gt; This is long but the details are so important.  If you have the time, please read. 
+&gt; 
+&gt; My sister's daughter was born 5 weeks after my daughter. They came home to my house and lived with us until she was almost 5. I took care of her while my sister dealt with postpartum depression. I nursed my daughter on one side and held my niece's bottle with my chin on the other. I put both babies to sleep together, they wore matching outfits (still do) and everyone on my Facebook thought I had twins because I had both of them all the time. It took a long time for my sister (who was 19 at the time) to overcome her depression. She didn't abandon her daughter, she tried to be a good mom, she just needed help and I was there for them. My niece and I are very close. She calls me Aunt but she treats me like I am her mother and I love her like she was my own daughter. 
+&gt; 
+&gt; The father and step mother didn't come into the picture until after she was 4 years old. Never even came to a birthday party. 
+&gt; 
+&gt; I feel like you need to know this to understand the depth of complete heartbreak that I am going through right now. 
+&gt; 
+&gt; My sister lost full custody of my niece when she tested positive for marijuana. Her father gained domiciliary and my sister was only given every other weekend to spend with her daughter. This was after she had to go through parenting classes and had to pay for drug tests for 6 months. 
+&gt; 
+&gt; Despite being clean for over a year now, my sister still only has every other weekend visitation with her daughter. She can't afford a lawyer because she is paying $500 a month in child support working a $9 an hour job for 32 hours a week, living on her own. 
+&gt; 
+&gt; We need help getting her back to her mother, and here is why:
+&gt; 
+&gt; My niece - age 6 -, we shall call  her Myah, has issues with bladder control.  She constantly has accidents while she is at her father's house. She lies about it because she doesn't want to get in trouble. When she is caught, her step mother whips her, grounds her, throws away or gives away her toys, and makes her stay in her room. 
+&gt; 
+&gt; All of those punishments for lying about having an accident because she is scared of her punishment. . . ?
+&gt; 
+&gt; We found that out because we noticed three bruises on her arm that look like fingers. She said that her step mother's nails really hurt when she grabs her to spank  her! I know that spanking is not considered child abuse but grabbing her arm so hard that it leaves long bruising? 
+&gt; 
+&gt; The step mother has locked her in the bathroom and made her sleep in the bath tub due to having accidents at night. 
+&gt; 
+&gt; They throw away everything that her mother gives her. She got Covid. My sister brought her a teddy bear and some things to make  her feel better. Step mother threw it away. 
+&gt; 
+&gt; They do not allow her to call her mother and when my sister calls to talk to her daughter, they give her every excuse they can think of. 
+&gt; 
+&gt; They spanked her with a plastic stick -that you use to invert your blinds - and left welts and bruises on her butt and back of her legs.
+&gt; 
+&gt; Every time my sister has her visits they start the visit with a gaslighting conversation and end the visit by accusing my sister of telling her daughter that she did not have to listen to her step mother or father, or accuses us of abusing her and blaming the accidents on us. Note that despite my sister having her own place, it is a small trailer in the hood and she feels safer having her daughter at my house - also because it is convienient. We want to spend time with them as well, so every other weekend I break out the cots and set them up their own space to relax and spend time together. 
+&gt; 
+&gt; They question her all the time and they video tape it. They question her so much that she gets tired and confused and will tell them what they want to hear, she will repeat what they say. 
+&gt; 
+&gt; They have reapeatedly called the Sherriff's office to perform wellness checks on my niece. ALL of them were confirmed to be unessesary because my niece was more than okay, she was spoiled and loved and having a gret time with her family that she only see's for 4 days a month. They have done this so many times that the last officer that came out said that he was going to arrest them if they did it again. 
+&gt; 
+&gt; They had my niece reciting these exact words to every single person she spoke to, ""My mommy is a liar"".
+&gt; 
+&gt; My sister bought my niece a phone, the first day she had it, they made her throw it in the garbage before she got on the bus for school because she peed the bed. Before school, they made that baby throw her phone away, her only connection to her mom, and then sent her to school. She came home with a Red Day sticker and was grounded the rest of the week. This was a child phone that could only call or recieve texts from 10 pre-programmed contacts.
+&gt; 
+&gt; They gave back the phone but everything else gets tossed or never returned. Every weekend my sister picks her up at their house instead of school, they keep her school uniform and force my sister to buy a new set. That's an average of $40 a month just on uniforms that we never see again. 
+&gt; 
+&gt; This is the 2nd year in a row that they have tried to keep my niece in the same grade. She is failing math and reading. They refuse to seek out therapy, they do not take her to tutoring, and they said that even if she passes Summer school that she should be held back so she can start fresh and repeat the first grade on a clean slate. 
+&gt; 
+&gt; They said they were going to give her a hair cut. My sister asked them not to because she was already planning on having a spa day with her and they were getting their hair done too, it was the day before my sister was due to pick her daughter up. They did it anyway. When my sister picked her up, she complimented her hair and asked if she liked it too. My niece said, ""yea but I wish I had bangs like my cousin"". 
+&gt; 
+&gt; So we gave her bangs. She loved them! She wanted us to take her picture, so we did a micro photo shoot. She looked like a tiny little Matilda. She was so excited to go to school with her new hairdo. When her stepmother saw it she lost her mind! She then chopped of more hair and shortened my niece's bangs. The next time we saw her we again said, ""Oh wow Myah, I love your new hairdo!"" and she replied, ""thanks but I don't like it"". So we asked her why and she said, "" Daddy and Stepmom didn't like it and they cut it again"". 
+&gt; 
+&gt; There is so much more but I am in tears already and I this weekend was exhausting. It was so hard to drop my niece off at school this morning. Her mother and I were choking back tears as we drove out of  her sight.
+&gt; 
+&gt; Please please please someone help us get her back. We are working on setting up an rv at my home and my sister is going to live in that while she saves up for an attorney. Legal aid has done NOTHING for us. What can we do? 
+&gt; 
+&gt; I can write a book on the many examples of narcassim that we have experienced with this woman. Even the police officer that the step mom called told us, ""Oh I knew something was wrong with her after two minutes of talking to her, and I don't like  her.""
+&gt; 
+&gt; My niece will tell you that she doesn't love her daddy and she doesn't even like her step mom. She says they are mean and they punish me all the time.
+&gt; 
+&gt; What can my sister do to save her daughter from the hell she is living in every day? Legal measures. 
+&gt; 
+&gt; We are keeping a timeline and data entry book on all of the offenses she has made and we are going to record all the phone conversations as well as pick up and drop offs. 
+&gt; 
+&gt; They just spent all of ther stimulus on a new sports car. We don't believe they are going to have the money for a lawyer any time soon, so we are going to try to take them to court as soon as possible. 
+&gt; 
+&gt; If you know of anyone who can help us, please message me privately. Other than revealing personal info I am more than willing to be honest with any questions.
+
+
+
+
+---
+LocationBot 4.999988713 83/601rds  | [Report Issues](https://www.reddit.com/r/locationbot) | &gt;!TdUO5NmMWlXWXJFcjJzZ!&lt;",0
+neoliberal,"I personally like his attachment to he’d data, however Indo agree that people use his theories/works improperly.",0
+buildapc,"&gt;I do a lot of financial analysis and forecasting for both work and  personal purposes. Generally, my formula's are not too big, but we use  large sets of data. While my current computer is able to process these  sufficiently, it often takes a minute to run larger tasks, which isn't a  problem, but definitely can improve on the user experience of it. (I'm  not too computer savvy, but I have a 9th gen i7 currently)
+
+I'm not too well-versed in financial analysis, but I would look into whether the programs you use prefer lots of cores (aka heavily multithreaded), or a few really fast cores. Most programs nowadays fall into one camp or another.
+
+If your programs are heavily multithreaded, it would benefit you to get an upgrade - I would, however, consider going for AMD for an R9 5900X or something, because it has 12 cores and 24 threads instead of 10 cores and 20 threads on the i9-10900K. The 5900X also tends to be more efficient, and it has faster cores to boot.
+
+If your programs are not heavily multithreaded, it won't benefit you to upgrade to a 10th gen i9, because 10th gen and 9th gen are basically the same architecture and therefore single-core speed. It might benefit you to get an AMD Ryzen 5000 or Intel 11th gen though.
+
+&gt;Along side work, I do also want to do 4k gaming on my LG CX tv. It supports G-Sync, so I need a Nvidia GPU.
+
+Supporting GSync doesn't necessarily mean you need an NVIDIA GPU; lots of GSync-compatible monitors/TVs nowadays will also do Freesync. In fact I would say it's more common that a monitor supports only Freesync and not Gsync nowadays. I would look into it, because if it supports Freesync AMD is fine too.
+
+But also, good luck getting a 4K-capable GPU nowadays haha. Seriously, it's a tough market to be buying GPUs in. Buying a prebuilt is actually not a bad idea because at least you don't have to fight with scalpers and bots for GPUs.
+
+&gt;For the auto boost, is this the same as overclocking? Also do both Intel and AMD automatically enable this?
+
+This is not the same as overclocking. Boost algorithms are basically just increasing the clockspeed as needed during heavy load, assuming there is thermal and power headroom left to do so. AMD and Intel will both automatically do this, and have done so for over 10 years.
+
+Overclocking is basically increasing the clockspeed manually yourself - that means raising the limit of your boost beyond the manufacturer specs, and/or raising and holding the clockspeed to higher than the manufacturer's specified base clock. This is a classic way to get more performance, but you can imagine that it comes at the cost of higher thermals and power usage. Nowadays I would honestly say it's not worth it for AMD, and only a little worth it for Intel.
+
+&gt;**CPU:** Intel® Core™ Processor i9-10900K 10/20 3.70GHz \[Turbo 5.2GHz\] 20MB Cache LGA1200 \[-66\]  
+&gt;  
+&gt;**MOTHERBOARD:** MSI Z590 PRO WiFi ATX, ARGB, WiFi 6, 2.5GbE LAN, 2 PCIe x16, 2 PCIe x1, 6 SATA3, 3x M.2 SATA/PCIe
+
+I don't know if you know this, but Intel K-series isn't really all that necessary if you're not overclocking - the main difference between Intel K-series and non-K series is that K-series supports overclocking. You might save a few bucks going for a non-K series.
+
+You might also save a few bucks going for an F-series (e.g. i9-10900F), which is the same CPU but with no integrated graphics. There's also the i9-10850K, which is basically a slightly slower i9-10900K, but since it's overclockable it doesn't matter if you get the slower one.
+
+If you're not overclocking, a Z590 isn't necessary either - Z-series mobos are for overclocking. Check out B460/B560/H470/H570 instead.
+
+For AMD you don't have to worry about any of this, all of their CPUs and all of their non-budget motherboards support overclocking so it doesn't matter what you get.
+
+&gt;**MEMORY:** 16GB (8GBx2) DDR4/3600MHz Dual Channel Memory \[+90\] (HyperX Fury \[+30\])
+
+If you're working with really big datasets it might actually be worth seeing if RAM is your bottleneck. I don't know what financial analysis is like but maybe your computer is slow just because you need more RAM. This shit is relatively cheap to upgrade.
+
+&gt;**POWERSUPPLY:** 1,000 Watts - Standard 80 Plus Gold Power Supply
+
+1000W is very excessive for a build like this, especially if you're not overclocking. 750-850 would be plenty.",0
+,,
+,AVERAGE ,0.62
